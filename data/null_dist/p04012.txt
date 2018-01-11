@@ -1,0 +1,10 @@
+04012	ErbB signaling pathway	0.000606317246179
+04012	ErbB signaling pathway	4.72854397514e-05
+04012	ErbB signaling pathway	4.89843041077e-05
+04012	ErbB signaling pathway	9.07404336683e-05
+04012	ErbB signaling pathway	9.63426178849e-06
+04012	ErbB signaling pathway	0.000901870568174
+04012	ErbB signaling pathway	0.000568207167096
+04012	ErbB signaling pathway	2.58805183403e-06
+04012	ErbB signaling pathway	3.10154327542e-05
+04012	ErbB signaling pathway	3.85227887591e-05

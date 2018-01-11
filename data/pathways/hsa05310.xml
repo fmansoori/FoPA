@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<pathway name="path:hsa05310" org="hsa"  number="05310" title="Asthma">
+<entry id="24" type="protein" name="hsa:3565"/>
+<entry id="25" type="protein" name="hsa:8288"/>
+<entry id="21" type="protein" name="hsa:3565"/>
+<entry id="22" type="protein" name="hsa:3596"/>
+<entry id="46" type="protein" name="hsa:3596"/>
+<entry id="44" type="protein" name="hsa:3565"/>
+<entry id="45" type="protein" name="hsa:7124"/>
+<entry id="5" type="protein" name="hsa:100509457 hsa:101060835 hsa:3108 hsa:3109 hsa:3111 hsa:3112 hsa:3113 hsa:3115 hsa:3117 hsa:3118 hsa:3119 hsa:3122 hsa:3123 hsa:3125 hsa:3126 hsa:3127"/>
+<entry id="7" type="protein" name="hsa:959"/>
+<entry id="8" type="protein" name="hsa:958"/>
+<entry id="11" type="protein" name="hsa:3586"/>
+<entry id="10" type="protein" name="hsa:100509457 hsa:101060835 hsa:3108 hsa:3109 hsa:3111 hsa:3112 hsa:3113 hsa:3115 hsa:3117 hsa:3118 hsa:3119 hsa:3122 hsa:3123 hsa:3125 hsa:3126 hsa:3127"/>
+<entry id="13" type="protein" name="hsa:2205 hsa:2206 hsa:2207"/>
+<entry id="12" type="protein" name="hsa:3578"/>
+<entry id="15" type="protein" name="hsa:3565"/>
+<entry id="14" type="protein" name="hsa:2205 hsa:2206 hsa:2207"/>
+<entry id="17" type="protein" name="hsa:3596"/>
+<entry id="16" type="protein" name="hsa:3565"/>
+<entry id="19" type="protein" name="hsa:5553"/>
+<entry id="18" type="protein" name="hsa:6037"/>
+<entry id="36" type="protein" name="hsa:3567"/>
+<entry id="35" type="protein" name="hsa:3562"/>
+<entry id="34" type="protein" name="hsa:3567"/>
+<entry id="33" type="protein" name="hsa:6356"/>
+<entry id="27" type="compound" name="cpd:C00388"/>
+<entry id="32" type="compound" name="cpd:C04598"/>
+<entry id="31" type="compound" name="cpd:C05951"/>
+<entry id="30" type="compound" name="cpd:C04598"/>
+<entry id="28" type="compound" name="cpd:C02166"/>
+<entry id="29" type="compound" name="cpd:C00696"/>
+<entry id="41" type="compound" name="cpd:C05951"/>
+<entry id="42" type="compound" name="cpd:C05951"/>
+<relation entry1="7" entry2="8" type="PPrel" prob="0.2">
+<subtype name="activation"/>
+</relation>
+<relation entry1="7" entry2="8" type="PPrel" prob="0.3750293098">
+<subtype name="activation"/>
+</relation>
+</pathway>

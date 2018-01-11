@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<pathway name="path:hsa04672" org="hsa"  number="04672" title="Intestinal immune network for IgA production">
+<entry id="56" type="protein" name="hsa:29851"/>
+<entry id="54" type="protein" name="hsa:4055"/>
+<entry id="48" type="protein" name="hsa:7040"/>
+<entry id="43" type="protein" name="hsa:3565"/>
+<entry id="61" type="protein" name="hsa:5284"/>
+<entry id="49" type="protein" name="hsa:7040"/>
+<entry id="52" type="protein" name="hsa:3558"/>
+<entry id="53" type="protein" name="hsa:3567"/>
+<entry id="24" type="protein" name="hsa:10673"/>
+<entry id="25" type="protein" name="hsa:23495"/>
+<entry id="26" type="protein" name="hsa:23495"/>
+<entry id="20" type="protein" name="hsa:2826"/>
+<entry id="21" type="protein" name="hsa:56477"/>
+<entry id="22" type="protein" name="hsa:3600"/>
+<entry id="23" type="protein" name="hsa:8741"/>
+<entry id="46" type="protein" name="hsa:3586"/>
+<entry id="47" type="protein" name="hsa:3558"/>
+<entry id="44" type="protein" name="hsa:3567"/>
+<entry id="45" type="protein" name="hsa:3569"/>
+<entry id="28" type="protein" name="hsa:10803"/>
+<entry id="29" type="protein" name="hsa:3676 hsa:3695"/>
+<entry id="40" type="protein" name="hsa:6370"/>
+<entry id="1" type="protein" name="hsa:7040"/>
+<entry id="5" type="protein" name="hsa:3567"/>
+<entry id="7" type="protein" name="hsa:8741"/>
+<entry id="6" type="protein" name="hsa:3569"/>
+<entry id="9" type="protein" name="hsa:959"/>
+<entry id="8" type="protein" name="hsa:10673"/>
+<entry id="59" type="protein" name="hsa:3601"/>
+<entry id="58" type="protein" name="hsa:7852"/>
+<entry id="11" type="protein" name="hsa:115650"/>
+<entry id="10" type="protein" name="hsa:958"/>
+<entry id="13" type="protein" name="hsa:608"/>
+<entry id="12" type="protein" name="hsa:23495"/>
+<entry id="15" type="protein" name="hsa:940"/>
+<entry id="14" type="protein" name="hsa:941 hsa:942"/>
+<entry id="17" type="protein" name="hsa:100509457 hsa:101060835 hsa:3108 hsa:3109 hsa:3111 hsa:3112 hsa:3113 hsa:3115 hsa:3117 hsa:3118 hsa:3119 hsa:3122 hsa:3123 hsa:3125 hsa:3126 hsa:3127"/>
+<entry id="55" type="protein" name="hsa:9020"/>
+<entry id="19" type="protein" name="hsa:3586"/>
+<entry id="18" type="protein" name="hsa:10803"/>
+<entry id="31" type="protein" name="hsa:8174"/>
+<entry id="30" type="protein" name="hsa:3676 hsa:3695"/>
+<entry id="51" type="protein" name="hsa:3586"/>
+<entry id="36" type="protein" name="hsa:57379"/>
+<entry id="35" type="protein" name="hsa:57379"/>
+<entry id="34" type="protein" name="hsa:3565"/>
+<entry id="33" type="protein" name="hsa:100509457 hsa:101060835 hsa:3108 hsa:3109 hsa:3111 hsa:3112 hsa:3113 hsa:3115 hsa:3117 hsa:3118 hsa:3119 hsa:3122 hsa:3123 hsa:3125 hsa:3126 hsa:3127"/>
+<entry id="32" type="protein" name="hsa:6387"/>
+<entry id="57" type="protein" name="hsa:23308"/>
+<entry id="50" type="protein" name="hsa:3569"/>
+<entry id="42" type="compound" name="cpd:C00777 cpd:C15493"/>
+<relation entry1="8" entry2="11" type="PPrel" prob="0.6">
+<subtype name="activation"/>
+</relation>
+<relation entry1="9" entry2="10" type="PPrel" prob="0.2">
+<subtype name="activation"/>
+</relation>
+<relation entry1="7" entry2="13" type="PPrel" prob="0.6666666667">
+<subtype name="activation"/>
+</relation>
+<relation entry1="8" entry2="13" type="PPrel" prob="0.6666666667">
+<subtype name="activation"/>
+</relation>
+<relation entry1="7" entry2="12" type="PPrel" prob="0.2857142857">
+<subtype name="activation"/>
+</relation>
+<relation entry1="8" entry2="12" type="PPrel" prob="0.2857142857">
+<subtype name="activation"/>
+</relation>
+<relation entry1="14" entry2="15" type="PPrel" prob="0.4117647059">
+<subtype name="activation"/>
+</relation>
+<relation entry1="32" entry2="58" type="PPrel" prob="0.8">
+<subtype name="binding/association"/>
+</relation>
+<relation entry1="54" entry2="55" type="PPrel" prob="0.3333333333">
+<subtype name="activation"/>
+</relation>
+<relation entry1="40" entry2="18" type="PPrel" prob="0.6666666667">
+<subtype name="binding/association"/>
+</relation>
+<relation entry1="57" entry2="56" type="PPrel" prob="0.95">
+<subtype name="activation"/>
+</relation>
+<relation entry1="31" entry2="29" type="PPrel" prob="0.5">
+<subtype name="binding/association"/>
+</relation>
+<relation entry1="22" entry2="59" type="PPrel" prob="0.95">
+<subtype name="binding/association"/>
+</relation>
+<relation entry1="21" entry2="20" type="PPrel" prob="0.95">
+<subtype name="binding/association"/>
+</relation>
+<relation entry1="8" entry2="11" type="PPrel" prob="0.6593523029">
+<subtype name="activation"/>
+</relation>
+<relation entry1="9" entry2="10" type="PPrel" prob="0.1261914954">
+<subtype name="activation"/>
+</relation>
+<relation entry1="7" entry2="13" type="PPrel" prob="0.0483003658">
+<subtype name="activation"/>
+</relation>
+<relation entry1="8" entry2="13" type="PPrel" prob="0.317975699">
+<subtype name="activation"/>
+</relation>
+<relation entry1="7" entry2="12" type="PPrel" prob="0.2525883722">
+<subtype name="activation"/>
+</relation>
+<relation entry1="8" entry2="12" type="PPrel" prob="0.4469169854">
+<subtype name="activation"/>
+</relation>
+<relation entry1="14" entry2="15" type="PPrel" prob="0.3495276239">
+<subtype name="activation"/>
+</relation>
+<relation entry1="32" entry2="58" type="PPrel" prob="0.0336790423">
+<subtype name="binding/association"/>
+</relation>
+<relation entry1="54" entry2="55" type="PPrel" prob="0.2750070972">
+<subtype name="activation"/>
+</relation>
+<relation entry1="40" entry2="18" type="PPrel" prob="0.2171356974">
+<subtype name="binding/association"/>
+</relation>
+<relation entry1="57" entry2="56" type="PPrel" prob="0.4723832734">
+<subtype name="activation"/>
+</relation>
+<relation entry1="31" entry2="29" type="PPrel" prob="0.7129969466">
+<subtype name="binding/association"/>
+</relation>
+<relation entry1="22" entry2="59" type="PPrel" prob="0.1302861006">
+<subtype name="binding/association"/>
+</relation>
+<relation entry1="21" entry2="20" type="PPrel" prob="0.5037179141">
+<subtype name="binding/association"/>
+</relation>
+</pathway>

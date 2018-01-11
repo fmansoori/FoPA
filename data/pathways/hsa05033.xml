@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<pathway name="path:hsa05033" org="hsa"  number="05033" title="Nicotine addiction">
+<entry id="60" type="protein" name="hsa:246213 hsa:57030 hsa:57084"/>
+<entry id="68" type="protein" name="hsa:773 hsa:774"/>
+<entry id="24" type="protein" name="hsa:116443 hsa:116444 hsa:2902 hsa:2903 hsa:2904 hsa:2905 hsa:2906"/>
+<entry id="21" type="protein" name="hsa:116443 hsa:116444 hsa:2902 hsa:2903 hsa:2904 hsa:2905 hsa:2906"/>
+<entry id="22" type="protein" name="hsa:2890 hsa:2891 hsa:2892 hsa:2893"/>
+<entry id="49" type="protein" name="hsa:1139"/>
+<entry id="42" type="protein" name="hsa:1137 hsa:1141"/>
+<entry id="43" type="protein" name="hsa:1137 hsa:1141"/>
+<entry id="7" type="protein" name="hsa:8973"/>
+<entry id="9" type="protein" name="hsa:773 hsa:774"/>
+<entry id="8" type="protein" name="hsa:773 hsa:774"/>
+<entry id="70" type="protein" name="hsa:773 hsa:774"/>
+<entry id="59" type="protein" name="hsa:246213 hsa:57030 hsa:57084"/>
+<entry id="58" type="protein" name="hsa:140679"/>
+<entry id="11" type="protein" name="hsa:773 hsa:774"/>
+<entry id="10" type="protein" name="hsa:8973"/>
+<entry id="13" type="protein" name="hsa:1137 hsa:1141"/>
+<entry id="12" type="protein" name="hsa:773 hsa:774"/>
+<entry id="15" type="protein" name="hsa:1139"/>
+<entry id="14" type="protein" name="hsa:1139"/>
+<entry id="17" type="protein" name="hsa:200959 hsa:2554 hsa:2555 hsa:2556 hsa:2557 hsa:2558 hsa:2559 hsa:2560 hsa:2561 hsa:2562 hsa:2563 hsa:2564 hsa:2565 hsa:2566 hsa:2567 hsa:2568 hsa:2569 hsa:2570 hsa:55879"/>
+<entry id="16" type="protein" name="hsa:1137 hsa:1141"/>
+<entry id="18" type="protein" name="hsa:200959 hsa:2554 hsa:2555 hsa:2556 hsa:2557 hsa:2558 hsa:2559 hsa:2560 hsa:2561 hsa:2562 hsa:2563 hsa:2564 hsa:2565 hsa:2566 hsa:2567 hsa:2568 hsa:2569 hsa:2570 hsa:55879"/>
+<entry id="57" type="protein" name="hsa:140679"/>
+<entry id="23" type="protein" name="hsa:2890 hsa:2891 hsa:2892 hsa:2893"/>
+<entry id="50" type="protein" name="hsa:1139"/>
+<entry id="56" type="compound" name="cpd:C00745"/>
+<entry id="51" type="compound" name="cpd:C01996"/>
+<entry id="62" type="compound" name="cpd:C01330"/>
+<entry id="63" type="compound" name="cpd:C01330"/>
+<entry id="64" type="compound" name="cpd:C00334"/>
+<entry id="65" type="compound" name="cpd:C00025"/>
+<entry id="66" type="compound" name="cpd:C00334"/>
+<entry id="67" type="compound" name="cpd:C00025"/>
+<entry id="69" type="compound" name="cpd:C00076"/>
+<entry id="52" type="compound" name="cpd:C00076"/>
+<entry id="25" type="compound" name="cpd:C00025"/>
+<entry id="26" type="compound" name="cpd:C00025"/>
+<entry id="27" type="compound" name="cpd:C01996"/>
+<entry id="20" type="compound" name="cpd:C00076"/>
+<entry id="48" type="compound" name="cpd:C01996"/>
+<entry id="46" type="compound" name="cpd:C01996"/>
+<entry id="47" type="compound" name="cpd:C01996"/>
+<entry id="44" type="compound" name="cpd:C00076"/>
+<entry id="45" type="compound" name="cpd:C01996"/>
+<entry id="28" type="compound" name="cpd:C01996"/>
+<entry id="29" type="compound" name="cpd:C01996"/>
+<entry id="40" type="compound" name="cpd:C01330 cpd:C00076"/>
+<entry id="41" type="compound" name="cpd:C01330"/>
+<entry id="3" type="compound" name="cpd:C01330 cpd:C00076"/>
+<entry id="2" type="compound" name="cpd:C00334"/>
+<entry id="5" type="compound" name="cpd:C01330 cpd:C00076"/>
+<entry id="4" type="compound" name="cpd:C00076"/>
+<entry id="6" type="compound" name="cpd:C00076"/>
+<entry id="71" type="compound" name="cpd:C00076"/>
+<entry id="39" type="compound" name="cpd:C01330"/>
+<entry id="38" type="compound" name="cpd:C01330 cpd:C00076"/>
+<entry id="19" type="compound" name="cpd:C00076"/>
+<entry id="32" type="compound" name="cpd:C00745"/>
+<entry id="31" type="compound" name="cpd:C00745"/>
+<entry id="30" type="compound" name="cpd:C01996"/>
+<entry id="37" type="compound" name="cpd:C00698"/>
+<entry id="53" type="compound" name="cpd:C00076"/>
+<entry id="34" type="compound" name="cpd:C00745"/>
+<entry id="33" type="compound" name="cpd:C00745"/>
+</pathway>

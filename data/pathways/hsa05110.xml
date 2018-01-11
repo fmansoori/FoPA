@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<pathway name="path:hsa05110" org="hsa"  number="05110" title="Vibrio cholerae infection">
+<entry id="51" type="protein" name="hsa:9601"/>
+<entry id="39" type="protein" name="hsa:7082"/>
+<entry id="38" type="protein" name="hsa:9414"/>
+<entry id="49" type="protein" name="hsa:10952 hsa:23480 hsa:29927 hsa:55176"/>
+<entry id="33" type="protein" name="hsa:30001"/>
+<entry id="47" type="protein" name="hsa:5566 hsa:5567 hsa:5568 hsa:5613"/>
+<entry id="31" type="protein" name="hsa:10312 hsa:127124 hsa:155066 hsa:23545 hsa:245972 hsa:245973 hsa:50617 hsa:51382 hsa:51606 hsa:523 hsa:525 hsa:526 hsa:527 hsa:528 hsa:529 hsa:533 hsa:534 hsa:535 hsa:537 hsa:8992 hsa:90423 hsa:9114 hsa:9296 hsa:9550"/>
+<entry id="45" type="protein" name="hsa:6558"/>
+<entry id="42" type="protein" name="hsa:2778"/>
+<entry id="29" type="protein" name="hsa:375"/>
+<entry id="35" type="protein" name="hsa:1080"/>
+<entry id="43" type="protein" name="hsa:3784"/>
+<entry id="1" type="protein" name="hsa:4583"/>
+<entry id="46" type="protein" name="hsa:5335 hsa:5336"/>
+<entry id="54" type="protein" name="hsa:10945 hsa:11014 hsa:11015"/>
+<entry id="52" type="protein" name="hsa:109 hsa:115"/>
+<entry id="44" type="protein" name="hsa:5578 hsa:5579 hsa:5582"/>
+<entry id="50" type="protein" name="hsa:60 hsa:71"/>
+<entry id="11" type="compound" name="cpd:C00014"/>
+<entry id="13" type="compound" name="cpd:C00238"/>
+<entry id="12" type="compound" name="cpd:C00080"/>
+<entry id="15" type="compound" name="cpd:C01330"/>
+<entry id="14" type="compound" name="cpd:C00238"/>
+<entry id="17" type="compound" name="cpd:C00698"/>
+<entry id="16" type="compound" name="cpd:C00698"/>
+<entry id="18" type="compound" name="cpd:C04911"/>
+<entry id="28" type="compound" name="cpd:C01245"/>
+<entry id="40" type="compound" name="cpd:C00575"/>
+<entry id="27" type="compound" name="cpd:C00165"/>
+<entry id="53" type="compound" name="cpd:C00698"/>
+<relation entry1="44" entry2="46" type="PPrel" prob="0.0714285714">
+<subtype name="compound"/>
+</relation>
+<relation entry1="45" entry2="47" type="PPrel" prob="0.5">
+<subtype name="compound"/>
+</relation>
+<relation entry1="43" entry2="47" type="PPrel" prob="0.95">
+<subtype name="compound"/>
+</relation>
+<relation entry1="43" entry2="45" type="PPrel" prob="0.5">
+<subtype name="compound"/>
+</relation>
+<relation entry1="33" entry2="51" type="PPrel" prob="0.95">
+<subtype name="activation"/>
+</relation>
+<relation entry1="44" entry2="50" type="PPrel" prob="0.125">
+<subtype name="activation"/>
+</relation>
+<relation entry1="47" entry2="35" type="PPrel" prob="0.5">
+<subtype name="activation"/>
+</relation>
+<relation entry1="47" entry2="52" type="PPrel" prob="0.95">
+<subtype name="compound"/>
+</relation>
+<relation entry1="45" entry2="52" type="PPrel" prob="0.95">
+<subtype name="compound"/>
+</relation>
+<relation entry1="43" entry2="52" type="PPrel" prob="0.95">
+<subtype name="compound"/>
+</relation>
+<relation entry1="42" entry2="52" type="PPrel" prob="0.95">
+<subtype name="activation"/>
+</relation>
+<relation entry1="44" entry2="46" type="PPrel" prob="0.3600192012">
+<subtype name="compound"/>
+</relation>
+<relation entry1="45" entry2="47" type="PPrel" prob="0.4551880525">
+<subtype name="compound"/>
+</relation>
+<relation entry1="43" entry2="47" type="PPrel" prob="0.0039631486">
+<subtype name="compound"/>
+</relation>
+<relation entry1="43" entry2="45" type="PPrel" prob="0.4747989884">
+<subtype name="compound"/>
+</relation>
+<relation entry1="33" entry2="51" type="PPrel" prob="0.4867815971">
+<subtype name="activation"/>
+</relation>
+<relation entry1="44" entry2="50" type="PPrel" prob="0.6912780761">
+<subtype name="activation"/>
+</relation>
+<relation entry1="47" entry2="35" type="PPrel" prob="0.7573315967">
+<subtype name="activation"/>
+</relation>
+<relation entry1="47" entry2="52" type="PPrel" prob="0.0432635251">
+<subtype name="compound"/>
+</relation>
+<relation entry1="45" entry2="52" type="PPrel" prob="0.1986932091">
+<subtype name="compound"/>
+</relation>
+<relation entry1="43" entry2="52" type="PPrel" prob="0.7673232241">
+<subtype name="compound"/>
+</relation>
+<relation entry1="42" entry2="52" type="PPrel" prob="0.4067392282">
+<subtype name="activation"/>
+</relation>
+</pathway>

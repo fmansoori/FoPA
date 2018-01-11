@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<pathway name="path:hsa04964" org="hsa"  number="04964" title="Proximal tubule bicarbonate reclamation">
+<entry id="39" type="protein" name="hsa:358"/>
+<entry id="12" type="protein" name="hsa:762"/>
+<entry id="48" type="protein" name="hsa:4190"/>
+<entry id="16" type="protein" name="hsa:760"/>
+<entry id="33" type="protein" name="hsa:27165 hsa:2744"/>
+<entry id="45" type="protein" name="hsa:1468"/>
+<entry id="36" type="protein" name="hsa:23439 hsa:476 hsa:477 hsa:478 hsa:480 hsa:481 hsa:482 hsa:483 hsa:486"/>
+<entry id="40" type="protein" name="hsa:10991"/>
+<entry id="34" type="protein" name="hsa:2746 hsa:2747"/>
+<entry id="5" type="protein" name="hsa:6550"/>
+<entry id="7" type="protein" name="hsa:6550"/>
+<entry id="6" type="protein" name="hsa:8671"/>
+<entry id="50" type="protein" name="hsa:5105 hsa:5106"/>
+<entry id="51" type="compound" name="cpd:C01353"/>
+<entry id="49" type="compound" name="cpd:C00074"/>
+<entry id="24" type="compound" name="cpd:C00026"/>
+<entry id="25" type="compound" name="cpd:C01358"/>
+<entry id="26" type="compound" name="cpd:C00288"/>
+<entry id="27" type="compound" name="cpd:C00267"/>
+<entry id="20" type="compound" name="cpd:C00698"/>
+<entry id="21" type="compound" name="cpd:C00001"/>
+<entry id="22" type="compound" name="cpd:C00064"/>
+<entry id="23" type="compound" name="cpd:C00025"/>
+<entry id="46" type="compound" name="cpd:C00149"/>
+<entry id="47" type="compound" name="cpd:C00036"/>
+<entry id="44" type="compound" name="cpd:C00149"/>
+<entry id="28" type="compound" name="cpd:C01330"/>
+<entry id="29" type="compound" name="cpd:C00014"/>
+<entry id="41" type="compound" name="cpd:C00064"/>
+<entry id="3" type="compound" name="cpd:C00001"/>
+<entry id="4" type="compound" name="cpd:C00001"/>
+<entry id="9" type="compound" name="cpd:C01330"/>
+<entry id="8" type="compound" name="cpd:C00080"/>
+<entry id="11" type="compound" name="cpd:C00011"/>
+<entry id="10" type="compound" name="cpd:C00288"/>
+<entry id="13" type="compound" name="cpd:C00011"/>
+<entry id="38" type="compound" name="cpd:C00238"/>
+<entry id="15" type="compound" name="cpd:C00288"/>
+<entry id="14" type="compound" name="cpd:C00080"/>
+<entry id="17" type="compound" name="cpd:C01330"/>
+<entry id="19" type="compound" name="cpd:C01330"/>
+<entry id="18" type="compound" name="cpd:C00288"/>
+<entry id="31" type="compound" name="cpd:C00014"/>
+<entry id="30" type="compound" name="cpd:C01358"/>
+<entry id="37" type="compound" name="cpd:C01330"/>
+<entry id="35" type="compound" name="cpd:C00080"/>
+<entry id="52" type="compound" name="cpd:C01353"/>
+<entry id="32" type="compound" name="cpd:C01358"/>
+<relation entry1="48" entry2="50" type="ECrel" prob="0.95">
+<subtype name="compound"/>
+</relation>
+<relation entry1="33" entry2="34" type="ECrel" prob="0.95">
+<subtype name="compound"/>
+</relation>
+<relation entry1="48" entry2="50" type="ECrel" prob="0.7558118863">
+<subtype name="compound"/>
+</relation>
+<relation entry1="33" entry2="34" type="ECrel" prob="0.6836816747">
+<subtype name="compound"/>
+</relation>
+</pathway>

@@ -1,0 +1,6 @@
+dtmc
+module hsa04080
+cpdC06124: [0..4] init 2; 
+hsa1901: [-1..4] init -1; 
+[] hsa1901=-1 -> 0.05:(hsa1901'=1)+0.95:(hsa1901'=2);
+endmodule

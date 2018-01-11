@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<pathway name="path:hsa05320" org="hsa"  number="05320" title="Autoimmune thyroid disease">
+<entry id="54" type="protein" name="hsa:3586"/>
+<entry id="43" type="protein" name="hsa:3565"/>
+<entry id="25" type="protein" name="hsa:7253"/>
+<entry id="26" type="protein" name="hsa:7253"/>
+<entry id="27" type="protein" name="hsa:355"/>
+<entry id="20" type="protein" name="hsa:959"/>
+<entry id="21" type="protein" name="hsa:958"/>
+<entry id="48" type="protein" name="hsa:3439 hsa:3440 hsa:3441 hsa:3442 hsa:3443 hsa:3444 hsa:3445 hsa:3446 hsa:3447 hsa:3448 hsa:3449 hsa:3451 hsa:3452"/>
+<entry id="23" type="protein" name="hsa:100509457 hsa:101060835 hsa:3108 hsa:3109 hsa:3111 hsa:3112 hsa:3113 hsa:3115 hsa:3117 hsa:3118 hsa:3119 hsa:3122 hsa:3123 hsa:3125 hsa:3126 hsa:3127"/>
+<entry id="46" type="protein" name="hsa:3567"/>
+<entry id="47" type="protein" name="hsa:3558"/>
+<entry id="44" type="protein" name="hsa:3567"/>
+<entry id="45" type="protein" name="hsa:3565"/>
+<entry id="42" type="protein" name="hsa:3125"/>
+<entry id="29" type="protein" name="hsa:356"/>
+<entry id="41" type="protein" name="hsa:1493"/>
+<entry id="2" type="protein" name="hsa:100509457 hsa:101060835 hsa:3108 hsa:3109 hsa:3111 hsa:3112 hsa:3113 hsa:3115 hsa:3117 hsa:3118 hsa:3119 hsa:3122 hsa:3123 hsa:3125 hsa:3126 hsa:3127"/>
+<entry id="5" type="protein" name="hsa:958"/>
+<entry id="4" type="protein" name="hsa:959"/>
+<entry id="7" type="protein" name="hsa:100509457 hsa:101060835 hsa:3108 hsa:3109 hsa:3111 hsa:3112 hsa:3113 hsa:3115 hsa:3117 hsa:3118 hsa:3119 hsa:3122 hsa:3123 hsa:3125 hsa:3126 hsa:3127"/>
+<entry id="15" type="protein" name="hsa:7173"/>
+<entry id="17" type="protein" name="hsa:7253"/>
+<entry id="16" type="protein" name="hsa:7038"/>
+<entry id="33" type="protein" name="hsa:5551"/>
+<entry id="18" type="protein" name="hsa:100509457 hsa:101060835 hsa:3108 hsa:3109 hsa:3111 hsa:3112 hsa:3113 hsa:3115 hsa:3117 hsa:3118 hsa:3119 hsa:3122 hsa:3123 hsa:3125 hsa:3126 hsa:3127"/>
+<entry id="31" type="protein" name="hsa:3105 hsa:3106 hsa:3107 hsa:3133 hsa:3134 hsa:3135"/>
+<entry id="49" type="protein" name="hsa:941 hsa:942"/>
+<entry id="51" type="protein" name="hsa:942"/>
+<entry id="36" type="protein" name="hsa:1081 hsa:7252"/>
+<entry id="53" type="protein" name="hsa:3586"/>
+<entry id="52" type="protein" name="hsa:940"/>
+<entry id="32" type="protein" name="hsa:3002"/>
+<entry id="50" type="protein" name="hsa:940"/>
+<entry id="13" type="compound" name="cpd:C01382"/>
+<entry id="38" type="compound" name="cpd:C01829"/>
+<entry id="37" type="compound" name="cpd:C02465"/>
+<entry id="14" type="compound" name="dr:D00636"/>
+<relation entry1="29" entry2="27" type="PPrel" prob="0.6428571429">
+<subtype name="activation"/>
+</relation>
+<relation entry1="4" entry2="5" type="PPrel" prob="0.2">
+<subtype name="activation"/>
+</relation>
+<relation entry1="49" entry2="50" type="PPrel" prob="0.4117647059">
+<subtype name="activation"/>
+</relation>
+<relation entry1="51" entry2="50" type="PPrel" prob="0.0909090909">
+<subtype name="activation"/>
+</relation>
+<relation entry1="29" entry2="27" type="PPrel" prob="0.3640880095">
+<subtype name="activation"/>
+</relation>
+<relation entry1="4" entry2="5" type="PPrel" prob="0.1284972446">
+<subtype name="activation"/>
+</relation>
+<relation entry1="49" entry2="50" type="PPrel" prob="0.6760662887">
+<subtype name="activation"/>
+</relation>
+<relation entry1="51" entry2="50" type="PPrel" prob="0.9358374843">
+<subtype name="activation"/>
+</relation>
+</pathway>

@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<pathway name="path:hsa05323" org="hsa"  number="05323" title="Rheumatoid arthritis">
+<entry id="56" type="protein" name="hsa:284"/>
+<entry id="54" type="protein" name="hsa:6352"/>
+<entry id="51" type="protein" name="hsa:6364"/>
+<entry id="50" type="protein" name="hsa:8600"/>
+<entry id="49" type="protein" name="hsa:6372 hsa:6374"/>
+<entry id="52" type="protein" name="hsa:7097 hsa:7099"/>
+<entry id="53" type="protein" name="hsa:2353 hsa:3725"/>
+<entry id="24" type="protein" name="hsa:1514"/>
+<entry id="25" type="protein" name="hsa:3600"/>
+<entry id="20" type="protein" name="hsa:1437"/>
+<entry id="21" type="protein" name="hsa:3569"/>
+<entry id="22" type="protein" name="hsa:3553"/>
+<entry id="23" type="protein" name="hsa:4312 hsa:4314"/>
+<entry id="46" type="protein" name="hsa:3576"/>
+<entry id="47" type="protein" name="hsa:414062 hsa:6348 hsa:6349"/>
+<entry id="44" type="protein" name="hsa:7422"/>
+<entry id="45" type="protein" name="hsa:6387"/>
+<entry id="28" type="protein" name="hsa:100509457 hsa:101060835 hsa:3108 hsa:3109 hsa:3111 hsa:3112 hsa:3113 hsa:3115 hsa:3117 hsa:3118 hsa:3119 hsa:3122 hsa:3123 hsa:3125 hsa:3126 hsa:3127"/>
+<entry id="43" type="protein" name="hsa:3606"/>
+<entry id="41" type="protein" name="hsa:2321"/>
+<entry id="3" type="protein" name="hsa:8792"/>
+<entry id="2" type="protein" name="hsa:8600"/>
+<entry id="5" type="protein" name="hsa:8600"/>
+<entry id="7" type="protein" name="hsa:3552 hsa:3553"/>
+<entry id="6" type="protein" name="hsa:3605"/>
+<entry id="9" type="protein" name="hsa:3569"/>
+<entry id="8" type="protein" name="hsa:7124"/>
+<entry id="59" type="protein" name="hsa:1493"/>
+<entry id="58" type="protein" name="hsa:6347"/>
+<entry id="11" type="protein" name="hsa:3569"/>
+<entry id="10" type="protein" name="hsa:51561"/>
+<entry id="39" type="protein" name="hsa:940"/>
+<entry id="38" type="protein" name="hsa:941 hsa:942"/>
+<entry id="15" type="protein" name="hsa:7040 hsa:7042 hsa:7043"/>
+<entry id="48" type="protein" name="hsa:2919"/>
+<entry id="17" type="protein" name="hsa:3589"/>
+<entry id="16" type="protein" name="hsa:4050"/>
+<entry id="19" type="protein" name="hsa:3458"/>
+<entry id="18" type="protein" name="hsa:1435"/>
+<entry id="30" type="protein" name="hsa:10312 hsa:127124 hsa:155066 hsa:23545 hsa:245972 hsa:245973 hsa:50617 hsa:51382 hsa:51606 hsa:523 hsa:525 hsa:526 hsa:527 hsa:528 hsa:529 hsa:533 hsa:534 hsa:535 hsa:537 hsa:8992 hsa:90423 hsa:9114 hsa:9296 hsa:9550"/>
+<entry id="37" type="protein" name="hsa:3383"/>
+<entry id="36" type="protein" name="hsa:3683 hsa:3689"/>
+<entry id="35" type="protein" name="hsa:10673"/>
+<entry id="34" type="protein" name="hsa:8741"/>
+<entry id="33" type="protein" name="hsa:54"/>
+<entry id="55" type="protein" name="hsa:7010"/>
+<entry id="32" type="protein" name="hsa:1513"/>
+<entry id="31" type="compound" name="cpd:C00080"/>
+<entry id="13" type="compound" name="cpd:C16051"/>
+<entry id="12" type="compound" name="cpd:C05443"/>
+<entry id="14" type="compound" name="cpd:C00584"/>
+<action type="disease" entry1="41" />
+<action type="disease" entry1="55" />
+<action type="disease" entry1="20" />
+<action type="disease" entry1="9" />
+<action type="disease" entry1="22" />
+<action type="disease" entry1="54" />
+</pathway>

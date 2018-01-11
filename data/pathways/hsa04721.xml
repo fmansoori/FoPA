@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<pathway name="path:hsa04721" org="hsa"  number="04721" title="Synaptic vesicle cycle">
+<entry id="24" type="protein" name="hsa:1759 hsa:1785 hsa:26052"/>
+<entry id="25" type="protein" name="hsa:1759 hsa:1785 hsa:26052"/>
+<entry id="26" type="protein" name="hsa:6857"/>
+<entry id="27" type="protein" name="hsa:6812"/>
+<entry id="20" type="protein" name="hsa:6857"/>
+<entry id="21" type="protein" name="hsa:6844"/>
+<entry id="22" type="protein" name="hsa:1211 hsa:1212 hsa:1213 hsa:8218"/>
+<entry id="23" type="protein" name="hsa:1173 hsa:1175 hsa:160 hsa:161 hsa:163"/>
+<entry id="28" type="protein" name="hsa:6857"/>
+<entry id="29" type="protein" name="hsa:6616"/>
+<entry id="40" type="protein" name="hsa:10312 hsa:127124 hsa:155066 hsa:23545 hsa:245972 hsa:245973 hsa:50617 hsa:51382 hsa:51606 hsa:523 hsa:525 hsa:526 hsa:527 hsa:528 hsa:529 hsa:533 hsa:534 hsa:535 hsa:8992 hsa:90423 hsa:9114 hsa:9296 hsa:9550"/>
+<entry id="2" type="protein" name="hsa:773 hsa:774"/>
+<entry id="7" type="protein" name="hsa:22999"/>
+<entry id="6" type="protein" name="hsa:112755 hsa:2054 hsa:6804 hsa:6809"/>
+<entry id="9" type="protein" name="hsa:5864"/>
+<entry id="8" type="protein" name="hsa:10814 hsa:10815 hsa:339302 hsa:594855"/>
+<entry id="11" type="protein" name="hsa:6616"/>
+<entry id="10" type="protein" name="hsa:6844"/>
+<entry id="39" type="protein" name="hsa:10312 hsa:127124 hsa:155066 hsa:23545 hsa:245972 hsa:245973 hsa:50617 hsa:51382 hsa:51606 hsa:523 hsa:525 hsa:526 hsa:527 hsa:528 hsa:529 hsa:533 hsa:534 hsa:535 hsa:8992 hsa:90423 hsa:9114 hsa:9296 hsa:9550"/>
+<entry id="38" type="protein" name="hsa:140679 hsa:246213 hsa:57030 hsa:57084 hsa:6570 hsa:6571 hsa:6572"/>
+<entry id="17" type="protein" name="hsa:8775"/>
+<entry id="19" type="protein" name="hsa:6857"/>
+<entry id="18" type="protein" name="hsa:4905"/>
+<entry id="31" type="protein" name="hsa:112755 hsa:2054 hsa:6804 hsa:6809"/>
+<entry id="30" type="protein" name="hsa:6844"/>
+<entry id="37" type="protein" name="hsa:140679 hsa:246213 hsa:57030 hsa:57084 hsa:6570 hsa:6571 hsa:6572"/>
+<entry id="36" type="protein" name="hsa:6857"/>
+<entry id="32" type="protein" name="hsa:10497 hsa:23025 hsa:440279"/>
+<entry id="33" type="compound" name="cpd:C00080"/>
+<entry id="3" type="compound" name="cpd:C00076"/>
+<entry id="12" type="compound" name="cpd:C00080"/>
+<entry id="35" type="compound" name="cpd:C03758 cpd:C01996 cpd:C00334 cpd:C00025 cpd:C16041 cpd:C00037 cpd:C00547 cpd:C00780 cpd:C00002 cpd:C00388"/>
+<entry id="34" type="compound" name="cpd:C03758 cpd:C01996 cpd:C00334 cpd:C00025 cpd:C16041 cpd:C00037 cpd:C00547 cpd:C00780 cpd:C00002 cpd:C00388"/>
+<relation entry1="6" entry2="11" type="PPrel" prob="0.25">
+<subtype name="binding/association"/>
+</relation>
+<relation entry1="6" entry2="10" type="PPrel" prob="0.1666666667">
+<subtype name="binding/association"/>
+</relation>
+<relation entry1="22" entry2="23" type="PPrel" prob="0.3333333333">
+<subtype name="binding/association"/>
+</relation>
+<relation entry1="9" entry2="7" type="PPrel" prob="0.95">
+<subtype name="binding/association"/>
+</relation>
+<relation entry1="10" entry2="6" type="PPrel" prob="0.1666666667">
+<subtype name="binding/association"/>
+</relation>
+<relation entry1="27" entry2="6" type="PPrel" prob="0.5">
+<subtype name="binding/association"/>
+</relation>
+<relation entry1="6" entry2="11" type="PPrel" prob="0.2249760002">
+<subtype name="binding/association"/>
+</relation>
+<relation entry1="6" entry2="10" type="PPrel" prob="0.3945299708">
+<subtype name="binding/association"/>
+</relation>
+<relation entry1="22" entry2="23" type="PPrel" prob="0.9125034263">
+<subtype name="binding/association"/>
+</relation>
+<relation entry1="9" entry2="7" type="PPrel" prob="0.0441046417">
+<subtype name="binding/association"/>
+</relation>
+<relation entry1="10" entry2="6" type="PPrel" prob="0.7312819043">
+<subtype name="binding/association"/>
+</relation>
+<relation entry1="27" entry2="6" type="PPrel" prob="0.8254441259">
+<subtype name="binding/association"/>
+</relation>
+</pathway>

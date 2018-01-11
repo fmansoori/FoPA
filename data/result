@@ -1,0 +1,65 @@
+03320	PPAR signaling pathway	0.0964245132363
+04010	MAPK signaling pathway	0.0218658865685
+04012	ErbB signaling pathway	0.000606317246179
+04014	Ras signaling pathway	0.0261813162616
+04022	cGMP-PKG signaling pathway	0.0518981957873
+04024	cAMP signaling pathway	0.0278144200702
+04062	Chemokine signaling pathway	0.0317864993083
+04064	NF-kappa B signaling pathway	0.000601086462161
+04070	Phosphatidylinositol signaling system	0.0
+04071	Sphingolipid signaling pathway	0.0135956799476
+04080	Neuroactive ligand-receptor interaction	0.005752031262
+04115	p53 signaling pathway	0.0084193682142
+04150	mTOR signaling pathway	0.00110252990657
+04152	AMPK signaling pathway	0.0124942202345
+04210	Apoptosis	0.0163057254945
+04260	Cardiac muscle contraction	0.0
+04261	Adrenergic signaling in cardiomyocytes	0.0185842869653
+04270	Vascular smooth muscle contraction	0.00664567683422
+04340	Hedgehog signaling pathway	0.000894074123559
+04350	TGF-beta signaling pathway	0.00190321886734
+04360	Axon guidance	0.00475151012695
+04370	VEGF signaling pathway	0.000225972495624
+04530	Tight junction	0.00920426611087
+04550	Signaling pathways regulating pluripotency of stem cells	0.00050664071226
+04610	Complement and coagulation cascades	0.00507315975258
+04611	Platelet activation	0.0073094435768
+04612	Antigen processing and presentation	0.0328759450572
+04614	Renin-angiotensin system	8.28884591848e-06
+04620	Toll-like receptor signaling pathway	0.0051076181989
+04621	NOD-like receptor signaling pathway	0.00599219839899
+04622	RIG-I-like receptor signaling pathway	0.0
+04623	Cytosolic DNA-sensing pathway	3.04177888983e-06
+04630	Jak-STAT signaling pathway	0.0189256984396
+04640	Hematopoietic cell lineage	0.0
+04660	T cell receptor signaling pathway	0.0310056341426
+04662	B cell receptor signaling pathway	0.00821969346761
+04664	Fc epsilon RI signaling pathway	0.0060131650451
+04666	Fc gamma R-mediated phagocytosis	0.0123062713333
+04668	TNF signaling pathway	0.0102378014891
+04670	Leukocyte transendothelial migration	0.0186518494985
+04672	Intestinal immune network for IgA production	0.0014874120852
+04710	Circadian rhythm	0.00166987563738
+04713	Circadian entrainment	0.000194320743781
+04720	Long-term potentiation	0.0
+04721	Synaptic vesicle cycle	0.00308865263352
+04722	Neurotrophin signaling pathway	0.00638378830955
+04723	Retrograde endocannabinoid signaling	6.36422076137e-06
+04724	Glutamatergic synapse	0.0103290604472
+04725	Cholinergic synapse	0.0127480806723
+04726	Serotonergic synapse	0.00476251810709
+04727	GABAergic synapse	0.000755153751934
+04728	Dopaminergic synapse	0.0
+04730	Long-term depression	0.0
+04740	Olfactory transduction	0.0
+04742	Taste transduction	0.0
+04744	Phototransduction	0.0
+04810	Regulation of actin cytoskeleton	0.00662844125969
+04910	Insulin signaling pathway	0.0826038930066
+04911	Insulin secretion	0.00689831812913
+04912	GnRH signaling pathway	0.013533574597
+04913	Ovarian steroidogenesis	0.0174472477182
+04915	Estrogen signaling pathway	0.00454934124363
+04916	Melanogenesis	0.0061960672579
+04917	Prolactin signaling pathway	0.045307317285
+04919	Thyroid hormone signaling pathway	0.0620194634546

@@ -88,8 +88,7 @@ class prism_trim():
             if (max+2) > 10:
                 self.m = max+2;
             else:
-                self.m = 6
-            print self.m;
+                self.m = 6;
 
     def set_all_variables(self, vars=[]):
 
@@ -192,6 +191,8 @@ class prism_trim():
                 if(len(trim_points)==1)and(len(pfirsts1)==0and(len(pfirsts2)==0)):
                     trim_points.pop();
 
+                print '.',
+
             if b in self.not_analyzed_last_points:
                 begins[b] = self.not_analyzed_last_points[b];
             else:
@@ -247,9 +248,8 @@ class prism_trim():
                         else :
                             d -= 1;
                             d = min(d, self.m-len(trim_points));
-                    else :
-                        print 'in cycle';
 
+            print '.',
             cnt+=1;
 
         if(can == True and cnt == len(sb)):

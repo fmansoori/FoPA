@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<pathway name="path:hsa05322" org="hsa"  number="05322" title="Systemic lupus erythematosus">
+<entry id="56" type="protein" name="hsa:6632 hsa:6634"/>
+<entry id="54" type="protein" name="hsa:6737 hsa:6738"/>
+<entry id="50" type="protein" name="hsa:221613 hsa:3012 hsa:3013 hsa:3014 hsa:3015 hsa:317772 hsa:474381 hsa:474382 hsa:55506 hsa:55766 hsa:723790 hsa:8329 hsa:8330 hsa:8331 hsa:8332 hsa:8334 hsa:8335 hsa:8336 hsa:8337 hsa:8338 hsa:83740 hsa:85235 hsa:8969 hsa:92815 hsa:94239 hsa:9555"/>
+<entry id="60" type="protein" name="hsa:6741"/>
+<entry id="61" type="protein" name="hsa:2904"/>
+<entry id="52" type="protein" name="hsa:126961 hsa:3020 hsa:3021 hsa:333932 hsa:440093 hsa:653604 hsa:8290 hsa:8350 hsa:8351 hsa:8352 hsa:8353 hsa:8354 hsa:8355 hsa:8356 hsa:8357 hsa:8358 hsa:8968"/>
+<entry id="24" type="protein" name="hsa:3458"/>
+<entry id="25" type="protein" name="hsa:3586"/>
+<entry id="26" type="protein" name="hsa:712 hsa:713 hsa:714"/>
+<entry id="27" type="protein" name="hsa:720 hsa:721"/>
+<entry id="20" type="protein" name="hsa:731 hsa:732 hsa:733"/>
+<entry id="21" type="protein" name="hsa:727 hsa:729 hsa:730 hsa:731 hsa:732 hsa:733"/>
+<entry id="22" type="protein" name="hsa:735"/>
+<entry id="23" type="protein" name="hsa:7124"/>
+<entry id="28" type="protein" name="hsa:712 hsa:713 hsa:714"/>
+<entry id="29" type="protein" name="hsa:720 hsa:721"/>
+<entry id="3" type="protein" name="hsa:2209 hsa:2212 hsa:2214 hsa:2215"/>
+<entry id="2" type="protein" name="hsa:2209 hsa:2212 hsa:2214 hsa:2215"/>
+<entry id="9" type="protein" name="hsa:1991"/>
+<entry id="39" type="protein" name="hsa:958"/>
+<entry id="38" type="protein" name="hsa:959"/>
+<entry id="59" type="protein" name="hsa:712 hsa:713 hsa:714"/>
+<entry id="58" type="protein" name="hsa:81 hsa:87 hsa:88 hsa:89"/>
+<entry id="11" type="protein" name="hsa:727"/>
+<entry id="10" type="protein" name="hsa:1511"/>
+<entry id="13" type="protein" name="hsa:718"/>
+<entry id="12" type="protein" name="hsa:720 hsa:721"/>
+<entry id="15" type="protein" name="hsa:716"/>
+<entry id="14" type="protein" name="hsa:717"/>
+<entry id="17" type="protein" name="hsa:715"/>
+<entry id="16" type="protein" name="hsa:712 hsa:713 hsa:714"/>
+<entry id="19" type="protein" name="hsa:730"/>
+<entry id="18" type="protein" name="hsa:729"/>
+<entry id="31" type="protein" name="hsa:717"/>
+<entry id="30" type="protein" name="hsa:717"/>
+<entry id="51" type="protein" name="hsa:128312 hsa:158983 hsa:255626 hsa:286436 hsa:3017 hsa:3018 hsa:440689 hsa:8339 hsa:8340 hsa:8341 hsa:8342 hsa:8343 hsa:8344 hsa:8345 hsa:8346 hsa:8347 hsa:8348 hsa:8349 hsa:85236 hsa:8970"/>
+<entry id="36" type="protein" name="hsa:100509457 hsa:101060835 hsa:3108 hsa:3109 hsa:3111 hsa:3112 hsa:3113 hsa:3115 hsa:3117 hsa:3118 hsa:3119 hsa:3122 hsa:3123 hsa:3125 hsa:3126 hsa:3127"/>
+<entry id="53" type="protein" name="hsa:121504 hsa:554313 hsa:8294 hsa:8359 hsa:8360 hsa:8361 hsa:8362 hsa:8363 hsa:8364 hsa:8365 hsa:8366 hsa:8367 hsa:8368 hsa:8369 hsa:8370"/>
+<entry id="34" type="protein" name="hsa:100509457 hsa:101060835 hsa:3108 hsa:3109 hsa:3111 hsa:3112 hsa:3113 hsa:3115 hsa:3117 hsa:3118 hsa:3119 hsa:3122 hsa:3123 hsa:3125 hsa:3126 hsa:3127"/>
+<entry id="33" type="protein" name="hsa:940"/>
+<entry id="55" type="protein" name="hsa:6628"/>
+<entry id="32" type="protein" name="hsa:941 hsa:942"/>
+<entry id="57" type="protein" name="hsa:2903"/>
+<entry id="49" type="compound" name="cpd:C02737"/>
+<entry id="48" type="compound" name="cpd:C00434"/>
+<entry id="6" type="compound" name="cpd:C00027"/>
+<entry id="63" type="group">
+<component id="12"/>
+<component id="14"/>
+</entry>
+<entry id="64" type="group">
+<component id="15"/>
+<component id="16"/>
+<component id="17"/>
+</entry>
+<relation entry1="32" entry2="33" type="PPrel" prob="0.4117647059">
+<subtype name="activation"/>
+</relation>
+<relation entry1="38" entry2="39" type="PPrel" prob="0.2">
+<subtype name="activation"/>
+</relation>
+<relation entry1="15" entry2="63" type="PPrel" prob="0.95">
+<subtype name="activation"/>
+</relation>
+<relation entry1="16" entry2="63" type="PPrel" prob="0.95">
+<subtype name="activation"/>
+</relation>
+<relation entry1="17" entry2="63" type="PPrel" prob="0.95">
+<subtype name="activation"/>
+</relation>
+<relation entry1="12" entry2="13" type="PPrel" prob="0.6666666667">
+<subtype name="activation"/>
+</relation>
+<relation entry1="14" entry2="13" type="PPrel" prob="0.6666666667">
+<subtype name="activation"/>
+</relation>
+<relation entry1="32" entry2="33" type="PPrel" prob="0.3305201687">
+<subtype name="activation"/>
+</relation>
+<relation entry1="38" entry2="39" type="PPrel" prob="0.1399413254">
+<subtype name="activation"/>
+</relation>
+<relation entry1="15" entry2="63" type="PPrel" prob="0.7271495761">
+<subtype name="activation"/>
+</relation>
+<relation entry1="16" entry2="63" type="PPrel" prob="0.5639487425">
+<subtype name="activation"/>
+</relation>
+<relation entry1="17" entry2="63" type="PPrel" prob="0.7964874041">
+<subtype name="activation"/>
+</relation>
+<relation entry1="12" entry2="13" type="PPrel" prob="0.3431741431">
+<subtype name="activation"/>
+</relation>
+<relation entry1="14" entry2="13" type="PPrel" prob="0.4217757831">
+<subtype name="activation"/>
+</relation>
+</pathway>

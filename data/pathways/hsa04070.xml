@@ -1,0 +1,728 @@
+<?xml version="1.0"?>
+<pathway name="path:hsa04070" org="hsa"  number="04070" title="Phosphatidylinositol signaling system">
+<entry id="51" type="protein" name="hsa:3612 hsa:3613 hsa:54928"/>
+<entry id="50" type="protein" name="hsa:3612 hsa:3613 hsa:54928"/>
+<entry id="60" type="protein" name="hsa:3635 hsa:3636"/>
+<entry id="61" type="protein" name="hsa:4534 hsa:55613 hsa:64419 hsa:8776 hsa:8897 hsa:8898 hsa:9107 hsa:9108 hsa:9110"/>
+<entry id="62" type="protein" name="hsa:5728"/>
+<entry id="64" type="protein" name="hsa:55529 hsa:90809"/>
+<entry id="53" type="protein" name="hsa:3628"/>
+<entry id="66" type="protein" name="hsa:4534 hsa:55613 hsa:64419 hsa:8776 hsa:8897 hsa:8898 hsa:9107 hsa:9108 hsa:9110"/>
+<entry id="82" type="protein" name="hsa:253430"/>
+<entry id="80" type="protein" name="hsa:3633 hsa:4952 hsa:56623 hsa:8867 hsa:8871"/>
+<entry id="52" type="protein" name="hsa:3631 hsa:8821"/>
+<entry id="48" type="protein" name="hsa:4534"/>
+<entry id="49" type="protein" name="hsa:3612 hsa:3613 hsa:54928"/>
+<entry id="46" type="protein" name="hsa:5305 hsa:79837 hsa:8396"/>
+<entry id="47" type="protein" name="hsa:253430"/>
+<entry id="44" type="protein" name="hsa:200576"/>
+<entry id="45" type="protein" name="hsa:3633 hsa:4952 hsa:56623 hsa:8867 hsa:8871"/>
+<entry id="42" type="protein" name="hsa:3631 hsa:8821"/>
+<entry id="43" type="protein" name="hsa:23533 hsa:5286 hsa:5287 hsa:5288 hsa:5295 hsa:5296 hsa:8503"/>
+<entry id="40" type="protein" name="hsa:1040 hsa:8760"/>
+<entry id="41" type="protein" name="hsa:139189 hsa:1606 hsa:1607 hsa:1608 hsa:160851 hsa:1609 hsa:8525 hsa:8526 hsa:8527 hsa:9162"/>
+<entry id="1" type="protein" name="hsa:5728"/>
+<entry id="2" type="protein" name="hsa:64768"/>
+<entry id="7" type="protein" name="hsa:113026 hsa:23236 hsa:51196 hsa:5330 hsa:5331 hsa:5332 hsa:5333 hsa:5335 hsa:5336 hsa:84812 hsa:89869"/>
+<entry id="6" type="protein" name="hsa:113026 hsa:23236 hsa:51196 hsa:5330 hsa:5331 hsa:5332 hsa:5333 hsa:5335 hsa:5336 hsa:84812 hsa:89869"/>
+<entry id="77" type="protein" name="hsa:23262 hsa:9677"/>
+<entry id="76" type="protein" name="hsa:23262 hsa:9677"/>
+<entry id="75" type="protein" name="hsa:117283 hsa:51447 hsa:9807"/>
+<entry id="74" type="protein" name="hsa:117283 hsa:51447 hsa:9807"/>
+<entry id="71" type="protein" name="hsa:253430"/>
+<entry id="70" type="protein" name="hsa:253430"/>
+<entry id="79" type="protein" name="hsa:5578 hsa:5579 hsa:5582"/>
+<entry id="78" type="protein" name="hsa:23533 hsa:5289 hsa:5295 hsa:5296 hsa:8503"/>
+<entry id="39" type="protein" name="hsa:23533 hsa:5286 hsa:5287 hsa:5288 hsa:5295 hsa:5296 hsa:8503"/>
+<entry id="38" type="protein" name="hsa:5297 hsa:5298 hsa:55300 hsa:55361"/>
+<entry id="59" type="protein" name="hsa:113026 hsa:23236 hsa:51196 hsa:5330 hsa:5331 hsa:5332 hsa:5333 hsa:5335 hsa:5336 hsa:84812 hsa:89869"/>
+<entry id="58" type="protein" name="hsa:3706 hsa:3707 hsa:80271"/>
+<entry id="33" type="protein" name="hsa:3708 hsa:3709 hsa:3710"/>
+<entry id="32" type="protein" name="hsa:163688 hsa:51806 hsa:801 hsa:805 hsa:808 hsa:810"/>
+<entry id="57" type="protein" name="hsa:3705"/>
+<entry id="56" type="protein" name="hsa:27124 hsa:3632 hsa:51763"/>
+<entry id="37" type="protein" name="hsa:200576"/>
+<entry id="36" type="protein" name="hsa:23396 hsa:8394 hsa:8395"/>
+<entry id="35" type="protein" name="hsa:23533 hsa:5290 hsa:5291 hsa:5293 hsa:5294 hsa:5295 hsa:5296 hsa:8503"/>
+<entry id="34" type="protein" name="hsa:10423"/>
+<entry id="55" type="protein" name="hsa:3628"/>
+<entry id="54" type="protein" name="hsa:27124 hsa:3632 hsa:51763"/>
+<entry id="65" type="protein" name="hsa:3631 hsa:8821"/>
+<entry id="69" type="compound" name="cpd:C11555"/>
+<entry id="24" type="compound" name="cpd:C01204"/>
+<entry id="25" type="compound" name="cpd:C00269"/>
+<entry id="26" type="compound" name="cpd:C00416"/>
+<entry id="27" type="compound" name="cpd:C00641"/>
+<entry id="20" type="compound" name="cpd:C04062"/>
+<entry id="21" type="compound" name="cpd:C04477"/>
+<entry id="22" type="compound" name="cpd:C04637"/>
+<entry id="23" type="compound" name="cpd:C00137"/>
+<entry id="28" type="compound" name="cpd:C04549"/>
+<entry id="29" type="compound" name="cpd:C05981"/>
+<entry id="3" type="compound" name="cpd:C11554"/>
+<entry id="5" type="compound" name="cpd:C11557"/>
+<entry id="4" type="compound" name="cpd:C11556"/>
+<entry id="9" type="compound" name="cpd:C00076"/>
+<entry id="8" type="compound" name="cpd:C11526"/>
+<entry id="73" type="compound" name="cpd:C20690"/>
+<entry id="72" type="compound" name="cpd:C11174"/>
+<entry id="11" type="compound" name="cpd:C01243"/>
+<entry id="13" type="compound" name="cpd:C03546"/>
+<entry id="12" type="compound" name="cpd:C01272"/>
+<entry id="15" type="compound" name="cpd:C01177"/>
+<entry id="14" type="compound" name="cpd:C04006"/>
+<entry id="17" type="compound" name="cpd:C01245"/>
+<entry id="16" type="compound" name="cpd:C01284"/>
+<entry id="19" type="compound" name="cpd:C04063"/>
+<entry id="18" type="compound" name="cpd:C01220"/>
+<entry id="31" type="compound" name="cpd:C01194"/>
+<entry id="30" type="compound" name="cpd:C01277"/>
+<relation entry1="35" entry2="60" type="ECrel" prob="0.3333333333">
+<subtype name="compound"/>
+</relation>
+<relation entry1="39" entry2="60" type="ECrel" prob="0.5">
+<subtype name="compound"/>
+</relation>
+<relation entry1="42" entry2="60" type="ECrel" prob="0.3333333333">
+<subtype name="compound"/>
+</relation>
+<relation entry1="37" entry2="61" type="ECrel" prob="0.25">
+<subtype name="compound"/>
+</relation>
+<relation entry1="6" entry2="61" type="ECrel" prob="0.1666666667">
+<subtype name="compound"/>
+</relation>
+<relation entry1="39" entry2="61" type="ECrel" prob="0.25">
+<subtype name="compound"/>
+</relation>
+<relation entry1="34" entry2="61" type="ECrel" prob="0.5">
+<subtype name="compound"/>
+</relation>
+<relation entry1="42" entry2="61" type="ECrel" prob="0.1666666667">
+<subtype name="compound"/>
+</relation>
+<relation entry1="38" entry2="61" type="ECrel" prob="0.5">
+<subtype name="compound"/>
+</relation>
+<relation entry1="46" entry2="61" type="ECrel" prob="0.5">
+<subtype name="compound"/>
+</relation>
+<relation entry1="46" entry2="64" type="ECrel" prob="0.95">
+<subtype name="compound"/>
+</relation>
+<relation entry1="35" entry2="64" type="ECrel" prob="0.95">
+<subtype name="compound"/>
+</relation>
+<relation entry1="1" entry2="64" type="ECrel" prob="0.5">
+<subtype name="compound"/>
+</relation>
+<relation entry1="36" entry2="64" type="ECrel" prob="0.95">
+<subtype name="compound"/>
+</relation>
+<relation entry1="45" entry2="64" type="ECrel" prob="0.5">
+<subtype name="compound"/>
+</relation>
+<relation entry1="37" entry2="64" type="ECrel" prob="0.5">
+<subtype name="compound"/>
+</relation>
+<relation entry1="61" entry2="64" type="ECrel" prob="0.5">
+<subtype name="compound"/>
+</relation>
+<relation entry1="42" entry2="53" type="ECrel" prob="0.1666666667">
+<subtype name="compound"/>
+</relation>
+<relation entry1="49" entry2="53" type="ECrel" prob="0.1666666667">
+<subtype name="compound"/>
+</relation>
+<relation entry1="6" entry2="48" type="ECrel" prob="0.3333333333">
+<subtype name="compound"/>
+</relation>
+<relation entry1="48" entry2="49" type="ECrel" prob="0.3333333333">
+<subtype name="compound"/>
+</relation>
+<relation entry1="49" entry2="49" type="ECrel" prob="0.1111111111">
+<subtype name="compound"/>
+</relation>
+<relation entry1="34" entry2="49" type="ECrel" prob="0.3333333333">
+<subtype name="compound"/>
+</relation>
+<relation entry1="6" entry2="49" type="ECrel" prob="0.1111111111">
+<subtype name="compound"/>
+</relation>
+<relation entry1="37" entry2="46" type="ECrel" prob="0.5">
+<subtype name="compound"/>
+</relation>
+<relation entry1="35" entry2="46" type="ECrel" prob="0.95">
+<subtype name="compound"/>
+</relation>
+<relation entry1="6" entry2="46" type="ECrel" prob="0.3333333333">
+<subtype name="compound"/>
+</relation>
+<relation entry1="36" entry2="46" type="ECrel" prob="0.95">
+<subtype name="compound"/>
+</relation>
+<relation entry1="45" entry2="46" type="ECrel" prob="0.5">
+<subtype name="compound"/>
+</relation>
+<relation entry1="2" entry2="47" type="ECrel" prob="0.25">
+<subtype name="compound"/>
+</relation>
+<relation entry1="54" entry2="47" type="ECrel" prob="0.125">
+<subtype name="compound"/>
+</relation>
+<relation entry1="58" entry2="47" type="ECrel" prob="0.25">
+<subtype name="compound"/>
+</relation>
+<relation entry1="6" entry2="47" type="ECrel" prob="0.0833333333">
+<subtype name="compound"/>
+</relation>
+<relation entry1="47" entry2="47" type="ECrel" prob="0.0625">
+<subtype name="compound"/>
+</relation>
+<relation entry1="38" entry2="45" type="ECrel" prob="0.5">
+<subtype name="compound"/>
+</relation>
+<relation entry1="36" entry2="45" type="ECrel" prob="0.5">
+<subtype name="compound"/>
+</relation>
+<relation entry1="39" entry2="45" type="ECrel" prob="0.25">
+<subtype name="compound"/>
+</relation>
+<relation entry1="35" entry2="45" type="ECrel" prob="0.5">
+<subtype name="compound"/>
+</relation>
+<relation entry1="6" entry2="45" type="ECrel" prob="0.1666666667">
+<subtype name="compound"/>
+</relation>
+<relation entry1="39" entry2="42" type="ECrel" prob="0.1666666667">
+<subtype name="compound"/>
+</relation>
+<relation entry1="1" entry2="42" type="ECrel" prob="0.1666666667">
+<subtype name="compound"/>
+</relation>
+<relation entry1="49" entry2="42" type="ECrel" prob="0.1111111111">
+<subtype name="compound"/>
+</relation>
+<relation entry1="54" entry2="42" type="ECrel" prob="0.1666666667">
+<subtype name="compound"/>
+</relation>
+<relation entry1="48" entry2="42" type="ECrel" prob="0.3333333333">
+<subtype name="compound"/>
+</relation>
+<relation entry1="45" entry2="42" type="ECrel" prob="0.1666666667">
+<subtype name="compound"/>
+</relation>
+<relation entry1="34" entry2="40" type="ECrel" prob="0.95">
+<subtype name="compound"/>
+</relation>
+<relation entry1="6" entry2="41" type="ECrel" prob="0.3333333333">
+<subtype name="compound"/>
+</relation>
+<relation entry1="40" entry2="41" type="ECrel" prob="0.95">
+<subtype name="compound"/>
+</relation>
+<relation entry1="46" entry2="1" type="ECrel" prob="0.5">
+<subtype name="compound"/>
+</relation>
+<relation entry1="35" entry2="1" type="ECrel" prob="0.0588235294">
+<subtype name="compound"/>
+</relation>
+<relation entry1="6" entry2="1" type="ECrel" prob="0.1666666667">
+<subtype name="compound"/>
+</relation>
+<relation entry1="60" entry2="1" type="ECrel" prob="0.5">
+<subtype name="compound"/>
+</relation>
+<relation entry1="36" entry2="1" type="ECrel" prob="0.5">
+<subtype name="compound"/>
+</relation>
+<relation entry1="45" entry2="1" type="ECrel" prob="0.25">
+<subtype name="compound"/>
+</relation>
+<relation entry1="76" entry2="2" type="ECrel" prob="0.5">
+<subtype name="compound"/>
+</relation>
+<relation entry1="74" entry2="2" type="ECrel" prob="0.5">
+<subtype name="compound"/>
+</relation>
+<relation entry1="47" entry2="2" type="ECrel" prob="0.25">
+<subtype name="compound"/>
+</relation>
+<relation entry1="1" entry2="6" type="ECrel" prob="0.1666666667">
+<subtype name="compound"/>
+</relation>
+<relation entry1="38" entry2="6" type="ECrel" prob="0.3333333333">
+<subtype name="compound"/>
+</relation>
+<relation entry1="36" entry2="6" type="ECrel" prob="0.3333333333">
+<subtype name="compound"/>
+</relation>
+<relation entry1="45" entry2="6" type="ECrel" prob="0.1666666667">
+<subtype name="compound"/>
+</relation>
+<relation entry1="39" entry2="6" type="ECrel" prob="0.1666666667">
+<subtype name="compound"/>
+</relation>
+<relation entry1="54" entry2="6" type="ECrel" prob="0.1666666667">
+<subtype name="compound"/>
+</relation>
+<relation entry1="53" entry2="6" type="ECrel" prob="0.1666666667">
+<subtype name="compound"/>
+</relation>
+<relation entry1="6" entry2="6" type="ECrel" prob="0.1">
+<subtype name="compound"/>
+</relation>
+<relation entry1="41" entry2="6" type="ECrel" prob="0.3333333333">
+<subtype name="compound"/>
+</relation>
+<relation entry1="74" entry2="76" type="ECrel" prob="0.25">
+<subtype name="compound"/>
+</relation>
+<relation entry1="76" entry2="74" type="ECrel" prob="0.25">
+<subtype name="compound"/>
+</relation>
+<relation entry1="37" entry2="78" type="ECrel" prob="0.5">
+<subtype name="compound"/>
+</relation>
+<relation entry1="42" entry2="78" type="ECrel" prob="0.3333333333">
+<subtype name="compound"/>
+</relation>
+<relation entry1="1" entry2="78" type="ECrel" prob="0.5">
+<subtype name="compound"/>
+</relation>
+<relation entry1="61" entry2="78" type="ECrel" prob="0.5">
+<subtype name="compound"/>
+</relation>
+<relation entry1="38" entry2="78" type="ECrel" prob="0.95">
+<subtype name="compound"/>
+</relation>
+<relation entry1="6" entry2="78" type="ECrel" prob="0.3333333333">
+<subtype name="compound"/>
+</relation>
+<relation entry1="34" entry2="78" type="ECrel" prob="0.95">
+<subtype name="compound"/>
+</relation>
+<relation entry1="37" entry2="39" type="ECrel" prob="0.25">
+<subtype name="compound"/>
+</relation>
+<relation entry1="6" entry2="39" type="ECrel" prob="0.1666666667">
+<subtype name="compound"/>
+</relation>
+<relation entry1="1" entry2="39" type="ECrel" prob="0.25">
+<subtype name="compound"/>
+</relation>
+<relation entry1="34" entry2="39" type="ECrel" prob="0.5">
+<subtype name="compound"/>
+</relation>
+<relation entry1="38" entry2="39" type="ECrel" prob="0.5">
+<subtype name="compound"/>
+</relation>
+<relation entry1="36" entry2="39" type="ECrel" prob="0.5">
+<subtype name="compound"/>
+</relation>
+<relation entry1="42" entry2="39" type="ECrel" prob="0.1666666667">
+<subtype name="compound"/>
+</relation>
+<relation entry1="45" entry2="39" type="ECrel" prob="0.25">
+<subtype name="compound"/>
+</relation>
+<relation entry1="36" entry2="38" type="ECrel" prob="0.95">
+<subtype name="compound"/>
+</relation>
+<relation entry1="6" entry2="38" type="ECrel" prob="0.3333333333">
+<subtype name="compound"/>
+</relation>
+<relation entry1="37" entry2="38" type="ECrel" prob="0.5">
+<subtype name="compound"/>
+</relation>
+<relation entry1="1" entry2="38" type="ECrel" prob="0.5">
+<subtype name="compound"/>
+</relation>
+<relation entry1="34" entry2="38" type="ECrel" prob="0.95">
+<subtype name="compound"/>
+</relation>
+<relation entry1="54" entry2="58" type="ECrel" prob="0.5">
+<subtype name="compound"/>
+</relation>
+<relation entry1="6" entry2="58" type="ECrel" prob="0.3333333333">
+<subtype name="compound"/>
+</relation>
+<relation entry1="53" entry2="54" type="ECrel" prob="0.25">
+<subtype name="compound"/>
+</relation>
+<relation entry1="6" entry2="54" type="ECrel" prob="0.1666666667">
+<subtype name="compound"/>
+</relation>
+<relation entry1="47" entry2="54" type="ECrel" prob="0.125">
+<subtype name="compound"/>
+</relation>
+<relation entry1="47" entry2="57" type="ECrel" prob="0.25">
+<subtype name="compound"/>
+</relation>
+<relation entry1="54" entry2="57" type="ECrel" prob="0.5">
+<subtype name="compound"/>
+</relation>
+<relation entry1="42" entry2="57" type="ECrel" prob="0.3333333333">
+<subtype name="compound"/>
+</relation>
+<relation entry1="53" entry2="57" type="ECrel" prob="0.5">
+<subtype name="compound"/>
+</relation>
+<relation entry1="6" entry2="37" type="ECrel" prob="0.1666666667">
+<subtype name="compound"/>
+</relation>
+<relation entry1="1" entry2="37" type="ECrel" prob="0.25">
+<subtype name="compound"/>
+</relation>
+<relation entry1="34" entry2="37" type="ECrel" prob="0.5">
+<subtype name="compound"/>
+</relation>
+<relation entry1="39" entry2="37" type="ECrel" prob="0.25">
+<subtype name="compound"/>
+</relation>
+<relation entry1="42" entry2="37" type="ECrel" prob="0.1666666667">
+<subtype name="compound"/>
+</relation>
+<relation entry1="35" entry2="36" type="ECrel" prob="0.5">
+<subtype name="compound"/>
+</relation>
+<relation entry1="6" entry2="36" type="ECrel" prob="0.3333333333">
+<subtype name="compound"/>
+</relation>
+<relation entry1="6" entry2="35" type="ECrel" prob="0.25">
+<subtype name="compound"/>
+</relation>
+<relation entry1="45" entry2="35" type="ECrel" prob="0.5">
+<subtype name="compound"/>
+</relation>
+<relation entry1="6" entry2="34" type="ECrel" prob="0.3333333333">
+<subtype name="compound"/>
+</relation>
+<relation entry1="1" entry2="34" type="ECrel" prob="0.5">
+<subtype name="compound"/>
+</relation>
+<relation entry1="35" entry2="60" type="ECrel" prob="0.1041645469">
+<subtype name="compound"/>
+</relation>
+<relation entry1="39" entry2="60" type="ECrel" prob="0.8098111408">
+<subtype name="compound"/>
+</relation>
+<relation entry1="42" entry2="60" type="ECrel" prob="0.840326139">
+<subtype name="compound"/>
+</relation>
+<relation entry1="37" entry2="61" type="ECrel" prob="0.6164642624">
+<subtype name="compound"/>
+</relation>
+<relation entry1="6" entry2="61" type="ECrel" prob="0.0246712498">
+<subtype name="compound"/>
+</relation>
+<relation entry1="39" entry2="61" type="ECrel" prob="0.2762933638">
+<subtype name="compound"/>
+</relation>
+<relation entry1="34" entry2="61" type="ECrel" prob="0.5560031653">
+<subtype name="compound"/>
+</relation>
+<relation entry1="42" entry2="61" type="ECrel" prob="0.7119904227">
+<subtype name="compound"/>
+</relation>
+<relation entry1="38" entry2="61" type="ECrel" prob="0.7441166031">
+<subtype name="compound"/>
+</relation>
+<relation entry1="46" entry2="61" type="ECrel" prob="0.5369048256">
+<subtype name="compound"/>
+</relation>
+<relation entry1="46" entry2="64" type="ECrel" prob="0.0413123532">
+<subtype name="compound"/>
+</relation>
+<relation entry1="35" entry2="64" type="ECrel" prob="0.3338045161">
+<subtype name="compound"/>
+</relation>
+<relation entry1="1" entry2="64" type="ECrel" prob="0.3388156908">
+<subtype name="compound"/>
+</relation>
+<relation entry1="36" entry2="64" type="ECrel" prob="0.2281171053">
+<subtype name="compound"/>
+</relation>
+<relation entry1="45" entry2="64" type="ECrel" prob="0.2031859926">
+<subtype name="compound"/>
+</relation>
+<relation entry1="37" entry2="64" type="ECrel" prob="0.0421024803">
+<subtype name="compound"/>
+</relation>
+<relation entry1="61" entry2="64" type="ECrel" prob="0.8505521865">
+<subtype name="compound"/>
+</relation>
+<relation entry1="42" entry2="53" type="ECrel" prob="0.2455544889">
+<subtype name="compound"/>
+</relation>
+<relation entry1="49" entry2="53" type="ECrel" prob="0.7240150275">
+<subtype name="compound"/>
+</relation>
+<relation entry1="6" entry2="48" type="ECrel" prob="0.9159253422">
+<subtype name="compound"/>
+</relation>
+<relation entry1="48" entry2="49" type="ECrel" prob="0.4753803742">
+<subtype name="compound"/>
+</relation>
+<relation entry1="49" entry2="49" type="ECrel" prob="0.4795410149">
+<subtype name="compound"/>
+</relation>
+<relation entry1="34" entry2="49" type="ECrel" prob="0.4073863421">
+<subtype name="compound"/>
+</relation>
+<relation entry1="6" entry2="49" type="ECrel" prob="0.2177880219">
+<subtype name="compound"/>
+</relation>
+<relation entry1="37" entry2="46" type="ECrel" prob="0.0681969541">
+<subtype name="compound"/>
+</relation>
+<relation entry1="35" entry2="46" type="ECrel" prob="0.3579729201">
+<subtype name="compound"/>
+</relation>
+<relation entry1="6" entry2="46" type="ECrel" prob="0.4898832017">
+<subtype name="compound"/>
+</relation>
+<relation entry1="36" entry2="46" type="ECrel" prob="0.7932569163">
+<subtype name="compound"/>
+</relation>
+<relation entry1="45" entry2="46" type="ECrel" prob="0.7214285318">
+<subtype name="compound"/>
+</relation>
+<relation entry1="2" entry2="47" type="ECrel" prob="0.3436768185">
+<subtype name="compound"/>
+</relation>
+<relation entry1="54" entry2="47" type="ECrel" prob="0.6153822632">
+<subtype name="compound"/>
+</relation>
+<relation entry1="58" entry2="47" type="ECrel" prob="0.6406220639">
+<subtype name="compound"/>
+</relation>
+<relation entry1="6" entry2="47" type="ECrel" prob="0.9361188942">
+<subtype name="compound"/>
+</relation>
+<relation entry1="47" entry2="47" type="ECrel" prob="0.6034788134">
+<subtype name="compound"/>
+</relation>
+<relation entry1="38" entry2="45" type="ECrel" prob="0.7948483684">
+<subtype name="compound"/>
+</relation>
+<relation entry1="36" entry2="45" type="ECrel" prob="0.1205778095">
+<subtype name="compound"/>
+</relation>
+<relation entry1="39" entry2="45" type="ECrel" prob="0.7684033835">
+<subtype name="compound"/>
+</relation>
+<relation entry1="35" entry2="45" type="ECrel" prob="0.6455455036">
+<subtype name="compound"/>
+</relation>
+<relation entry1="6" entry2="45" type="ECrel" prob="0.7569975645">
+<subtype name="compound"/>
+</relation>
+<relation entry1="39" entry2="42" type="ECrel" prob="0.2988730458">
+<subtype name="compound"/>
+</relation>
+<relation entry1="1" entry2="42" type="ECrel" prob="0.1106872328">
+<subtype name="compound"/>
+</relation>
+<relation entry1="49" entry2="42" type="ECrel" prob="0.6040113534">
+<subtype name="compound"/>
+</relation>
+<relation entry1="54" entry2="42" type="ECrel" prob="0.2436901189">
+<subtype name="compound"/>
+</relation>
+<relation entry1="48" entry2="42" type="ECrel" prob="0.8114383874">
+<subtype name="compound"/>
+</relation>
+<relation entry1="45" entry2="42" type="ECrel" prob="0.5757252238">
+<subtype name="compound"/>
+</relation>
+<relation entry1="34" entry2="40" type="ECrel" prob="0.2399828745">
+<subtype name="compound"/>
+</relation>
+<relation entry1="6" entry2="41" type="ECrel" prob="0.6565630915">
+<subtype name="compound"/>
+</relation>
+<relation entry1="40" entry2="41" type="ECrel" prob="0.8076737804">
+<subtype name="compound"/>
+</relation>
+<relation entry1="46" entry2="1" type="ECrel" prob="0.5226836678">
+<subtype name="compound"/>
+</relation>
+<relation entry1="35" entry2="1" type="ECrel" prob="0.6668578908">
+<subtype name="compound"/>
+</relation>
+<relation entry1="6" entry2="1" type="ECrel" prob="0.4976329493">
+<subtype name="compound"/>
+</relation>
+<relation entry1="60" entry2="1" type="ECrel" prob="0.4545835262">
+<subtype name="compound"/>
+</relation>
+<relation entry1="36" entry2="1" type="ECrel" prob="0.1450586678">
+<subtype name="compound"/>
+</relation>
+<relation entry1="45" entry2="1" type="ECrel" prob="0.014030864">
+<subtype name="compound"/>
+</relation>
+<relation entry1="76" entry2="2" type="ECrel" prob="0.3289567374">
+<subtype name="compound"/>
+</relation>
+<relation entry1="74" entry2="2" type="ECrel" prob="0.72034401">
+<subtype name="compound"/>
+</relation>
+<relation entry1="47" entry2="2" type="ECrel" prob="0.4860886082">
+<subtype name="compound"/>
+</relation>
+<relation entry1="1" entry2="6" type="ECrel" prob="0.5946790875">
+<subtype name="compound"/>
+</relation>
+<relation entry1="38" entry2="6" type="ECrel" prob="0.1522347302">
+<subtype name="compound"/>
+</relation>
+<relation entry1="36" entry2="6" type="ECrel" prob="0.6686279989">
+<subtype name="compound"/>
+</relation>
+<relation entry1="45" entry2="6" type="ECrel" prob="0.8336560832">
+<subtype name="compound"/>
+</relation>
+<relation entry1="39" entry2="6" type="ECrel" prob="0.0321983022">
+<subtype name="compound"/>
+</relation>
+<relation entry1="54" entry2="6" type="ECrel" prob="0.5496181146">
+<subtype name="compound"/>
+</relation>
+<relation entry1="53" entry2="6" type="ECrel" prob="0.9722810186">
+<subtype name="compound"/>
+</relation>
+<relation entry1="6" entry2="6" type="ECrel" prob="0.2428883193">
+<subtype name="compound"/>
+</relation>
+<relation entry1="41" entry2="6" type="ECrel" prob="0.4021820491">
+<subtype name="compound"/>
+</relation>
+<relation entry1="74" entry2="76" type="ECrel" prob="0.543574083">
+<subtype name="compound"/>
+</relation>
+<relation entry1="76" entry2="74" type="ECrel" prob="0.1855774244">
+<subtype name="compound"/>
+</relation>
+<relation entry1="37" entry2="78" type="ECrel" prob="0.5666392485">
+<subtype name="compound"/>
+</relation>
+<relation entry1="42" entry2="78" type="ECrel" prob="0.4928649974">
+<subtype name="compound"/>
+</relation>
+<relation entry1="1" entry2="78" type="ECrel" prob="0.9996290614">
+<subtype name="compound"/>
+</relation>
+<relation entry1="61" entry2="78" type="ECrel" prob="0.2215375455">
+<subtype name="compound"/>
+</relation>
+<relation entry1="38" entry2="78" type="ECrel" prob="0.5430073083">
+<subtype name="compound"/>
+</relation>
+<relation entry1="6" entry2="78" type="ECrel" prob="0.6447246371">
+<subtype name="compound"/>
+</relation>
+<relation entry1="34" entry2="78" type="ECrel" prob="0.4576000054">
+<subtype name="compound"/>
+</relation>
+<relation entry1="37" entry2="39" type="ECrel" prob="0.5057979605">
+<subtype name="compound"/>
+</relation>
+<relation entry1="6" entry2="39" type="ECrel" prob="0.4442874477">
+<subtype name="compound"/>
+</relation>
+<relation entry1="1" entry2="39" type="ECrel" prob="0.6236591643">
+<subtype name="compound"/>
+</relation>
+<relation entry1="34" entry2="39" type="ECrel" prob="0.2455713131">
+<subtype name="compound"/>
+</relation>
+<relation entry1="38" entry2="39" type="ECrel" prob="0.4636395634">
+<subtype name="compound"/>
+</relation>
+<relation entry1="36" entry2="39" type="ECrel" prob="0.2451772268">
+<subtype name="compound"/>
+</relation>
+<relation entry1="42" entry2="39" type="ECrel" prob="0.3204893781">
+<subtype name="compound"/>
+</relation>
+<relation entry1="45" entry2="39" type="ECrel" prob="0.5093422396">
+<subtype name="compound"/>
+</relation>
+<relation entry1="36" entry2="38" type="ECrel" prob="0.4709068716">
+<subtype name="compound"/>
+</relation>
+<relation entry1="6" entry2="38" type="ECrel" prob="0.244749407">
+<subtype name="compound"/>
+</relation>
+<relation entry1="37" entry2="38" type="ECrel" prob="0.2498667041">
+<subtype name="compound"/>
+</relation>
+<relation entry1="1" entry2="38" type="ECrel" prob="0.6871857113">
+<subtype name="compound"/>
+</relation>
+<relation entry1="34" entry2="38" type="ECrel" prob="0.0679444384">
+<subtype name="compound"/>
+</relation>
+<relation entry1="54" entry2="58" type="ECrel" prob="0.9839195033">
+<subtype name="compound"/>
+</relation>
+<relation entry1="6" entry2="58" type="ECrel" prob="0.3692579285">
+<subtype name="compound"/>
+</relation>
+<relation entry1="53" entry2="54" type="ECrel" prob="0.9850980693">
+<subtype name="compound"/>
+</relation>
+<relation entry1="6" entry2="54" type="ECrel" prob="0.511476305">
+<subtype name="compound"/>
+</relation>
+<relation entry1="47" entry2="54" type="ECrel" prob="0.2126796496">
+<subtype name="compound"/>
+</relation>
+<relation entry1="47" entry2="57" type="ECrel" prob="0.09637937">
+<subtype name="compound"/>
+</relation>
+<relation entry1="54" entry2="57" type="ECrel" prob="0.2828294507">
+<subtype name="compound"/>
+</relation>
+<relation entry1="42" entry2="57" type="ECrel" prob="0.9088136763">
+<subtype name="compound"/>
+</relation>
+<relation entry1="53" entry2="57" type="ECrel" prob="0.5470025053">
+<subtype name="compound"/>
+</relation>
+<relation entry1="6" entry2="37" type="ECrel" prob="0.1334926954">
+<subtype name="compound"/>
+</relation>
+<relation entry1="1" entry2="37" type="ECrel" prob="0.8373757866">
+<subtype name="compound"/>
+</relation>
+<relation entry1="34" entry2="37" type="ECrel" prob="0.044029136">
+<subtype name="compound"/>
+</relation>
+<relation entry1="39" entry2="37" type="ECrel" prob="0.5443636432">
+<subtype name="compound"/>
+</relation>
+<relation entry1="42" entry2="37" type="ECrel" prob="0.8193337262">
+<subtype name="compound"/>
+</relation>
+<relation entry1="35" entry2="36" type="ECrel" prob="0.8959285424">
+<subtype name="compound"/>
+</relation>
+<relation entry1="6" entry2="36" type="ECrel" prob="0.5648525972">
+<subtype name="compound"/>
+</relation>
+<relation entry1="6" entry2="35" type="ECrel" prob="0.4221014314">
+<subtype name="compound"/>
+</relation>
+<relation entry1="45" entry2="35" type="ECrel" prob="0.1011002486">
+<subtype name="compound"/>
+</relation>
+<relation entry1="6" entry2="34" type="ECrel" prob="0.4615195585">
+<subtype name="compound"/>
+</relation>
+<relation entry1="1" entry2="34" type="ECrel" prob="0.3394725337">
+<subtype name="compound"/>
+</relation>
+</pathway>

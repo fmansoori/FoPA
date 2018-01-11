@@ -144,6 +144,8 @@ class prism_trim_parser():
                     old_last_points[n] = new_last_points[n];
                     if(n in pathway_last_points):
                         self.pathway_prob.append(new_last_points[n]['prob4']);
+            print '.',
+
         sum_prob = 0.0;
         for pp in self.pathway_prob:
             sum_prob += float(pp);

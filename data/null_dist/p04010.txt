@@ -1,0 +1,10 @@
+04010	MAPK signaling pathway	0.0218658865685
+04010	MAPK signaling pathway	0.00619671247434
+04010	MAPK signaling pathway	0.00266869155776
+04010	MAPK signaling pathway	0.0076149617857
+04010	MAPK signaling pathway	0.00197222726273
+04010	MAPK signaling pathway	0.0161894732072
+04010	MAPK signaling pathway	0.0175816655574
+04010	MAPK signaling pathway	0.00176279940015
+04010	MAPK signaling pathway	0.0025825622961
+04010	MAPK signaling pathway	0.0023637284118

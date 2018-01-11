@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<pathway name="path:hsa04614" org="hsa"  number="04614" title="Renin-angiotensin system">
+<entry id="24" type="protein" name="hsa:4012"/>
+<entry id="25" type="protein" name="hsa:1215"/>
+<entry id="26" type="protein" name="hsa:1511"/>
+<entry id="27" type="protein" name="hsa:183"/>
+<entry id="20" type="protein" name="hsa:5476"/>
+<entry id="21" type="protein" name="hsa:1359"/>
+<entry id="22" type="protein" name="hsa:4142"/>
+<entry id="23" type="protein" name="hsa:4311"/>
+<entry id="44" type="protein" name="hsa:5550"/>
+<entry id="45" type="protein" name="hsa:5547"/>
+<entry id="28" type="protein" name="hsa:5972"/>
+<entry id="43" type="protein" name="hsa:290"/>
+<entry id="41" type="protein" name="hsa:59272"/>
+<entry id="1" type="protein" name="hsa:59272"/>
+<entry id="3" type="protein" name="hsa:1636"/>
+<entry id="2" type="protein" name="hsa:59272"/>
+<entry id="5" type="protein" name="hsa:1636"/>
+<entry id="4" type="protein" name="hsa:1636"/>
+<entry id="13" type="protein" name="hsa:185"/>
+<entry id="38" type="protein" name="hsa:116512"/>
+<entry id="15" type="protein" name="hsa:57486"/>
+<entry id="14" type="protein" name="hsa:186"/>
+<entry id="17" type="protein" name="hsa:4311"/>
+<entry id="16" type="protein" name="hsa:7064"/>
+<entry id="19" type="protein" name="hsa:2028"/>
+<entry id="18" type="protein" name="hsa:290"/>
+<entry id="31" type="protein" name="hsa:10159"/>
+<entry id="33" type="protein" name="hsa:1511"/>
+<entry id="32" type="protein" name="hsa:3816 hsa:3817"/>
+<entry id="11" type="compound" name="cpd:C15851"/>
+<entry id="10" type="compound" name="cpd:C15852"/>
+<entry id="39" type="compound" name="cpd:C20971"/>
+<entry id="12" type="compound" name="cpd:C00873"/>
+<entry id="37" type="compound" name="cpd:C20973"/>
+<entry id="36" type="compound" name="cpd:C20972"/>
+<entry id="40" type="compound" name="cpd:C20970"/>
+<entry id="7" type="compound" name="cpd:C15849"/>
+<entry id="6" type="compound" name="cpd:C02135"/>
+<entry id="9" type="compound" name="cpd:C15850"/>
+<entry id="8" type="compound" name="cpd:C15848"/>
+<relation entry1="28" entry2="31" type="PPrel" prob="0.95">
+<subtype name="activation"/>
+</relation>
+<relation entry1="28" entry2="31" type="PPrel" prob="0.4628003524">
+<subtype name="activation"/>
+</relation>
+<action type="No_Apoptosis" entry1="31" />
+</pathway>

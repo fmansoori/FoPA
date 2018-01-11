@@ -29,6 +29,7 @@ config.read(confige_file)
 #read the config data
 ##################################
 #pathes
+FoPA_path = config.get('paths','FoPA_path')
 gene_path = config.get('paths','gene_path')
 pathway_path = config.get('paths','pathway_path')
 null_path = config.get('paths','null_path')
@@ -68,7 +69,7 @@ for we in ws:
 
 #read result file to continue from previous
 donePathwaysFiles=[];
-res_file = open("./data/"+result_file,'r');
+res_file = open(result_file,'r');
 donePathwaysRows = [line.rstrip('\n') for line in res_file];
 res_file.close();
 for donePathwaysRow in donePathwaysRows:
@@ -217,11 +218,12 @@ for f in pathwayfiles:
             pathway.add_relation(data={'type': type, 'type_name': rel_type, 'first': e1, 'second': e2, 'prob': prob})
 
     #compute the probability
-    prism_trim_parser = prism_trim_parser();
-    prism_trim_parser.__init__();
-    path_prob = prism_trim_parser.calculate_score(pathway, degs, all_genes);
+    myprism_trim_parser = prism_trim_parser();
+    myprism_trim_parser.__init__();
+    path_prob = myprism_trim_parser.calculate_score(pathway, degs, all_genes);
+    print '\n',
     print path_prob;
-    outputf = open(out_file, 'a');
+    outputf = open(result_file, 'a');
     outputf.write(pathway.id + '\t' + pathway.title + '\t' + str(path_prob) + '\n');
     outputf.close();
 
@@ -302,16 +304,19 @@ for f in pathwayfiles:
                 pathway.update_protein_prob(p, prob);
 
 
-            prism_trim_parser = prism_trim_parser();
-            prism_trim_parser.__init__();
-            path_prob = prism_trim_parser.calculate_prob(pathway, degs, all_genes);
+            myprism_trim_parser = prism_trim_parser();
+            myprism_trim_parser.__init__();
+            path_prob = myprism_trim_parser.calculate_prob(pathway, degs, all_genes);
+            print '\n'
             print path_prob;
             randomf = open('./data/temp/p'+pathway.id+'.txt', 'w');
             randomf.write(pathway.id + '\t' + pathway.title + '\t' + str(path_prob) + '\n');
             randomf.close();
 
-            sorting = sorting();
-            sorting.sort(out_file)
-    else:
-        sorting = sorting();
-        sorting.sort_stored_random(out_file)
+
+if (random_build == 'ALL'):
+            mysorting = sorting();
+            mysorting.sort(out_file)
+else:
+    mysorting = sorting();
+    mysorting.sort_stored_random(out_file)

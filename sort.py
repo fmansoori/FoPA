@@ -6,7 +6,7 @@ from os.path import isfile, join
 
 result_path = './data/'
 temp_random_path = './data/temp'
-random_path ='./data'
+random_path ='./data/null_dist'
 result_file = 'result'
 random_file ='random'
 
@@ -63,7 +63,7 @@ class sorting():
                         pkpvalues[i] = pkpvalues[j];
                         pkpvalues[j] = temp;
 
-        fout = open(out_file, 'w')
+        fout = open(join(result_path, out_file), 'w')
         for pk in pkeys :
             pkpvalues = results[pk];
             for pkp in pkpvalues:
@@ -83,7 +83,7 @@ class sorting():
             cnt += 1
 
         for fr in randomfiles:
-            random_raw = [line.rstrip('\n') for line in open(join(random_path, f), 'r')]
+            random_raw = [line.rstrip('\n') for line in open(join(random_path, fr), 'r')]
             rlen = len(random_raw);
             splitr = random_raw[0].split('\t');
             title = splitr[0] + '\t' + splitr[1];
@@ -92,14 +92,17 @@ class sorting():
             cntp = 0;
             while (cnt < rlen):
                 splitr = random_raw[cnt].split('\t');
-                prob = float(splitr[0])
-                if (prob > main_probs[idp]):
+                prob = float(splitr[2])
+                mprob = 0;
+                if (idp in main_probs):
+                    mprob = main_probs[idp];
+                if (prob >= mprob):
                     cntp += 1;
                 cnt += 1;
             pvalue = float(cntp) / rlen;
             if (results.has_key(pvalue) == False):
                 results[pvalue] = []
-            results[pvalue].append({'title': title, 'score': main_probs[idp], 'pvalue': float(cntp) / rlen});
+            results[pvalue].append({'title': title, 'score': mprob, 'pvalue': pvalue});
 
         # sort based on the pvalue and score
         pkeys = results.keys();
@@ -119,7 +122,7 @@ class sorting():
                         pkpvalues[i] = pkpvalues[j];
                         pkpvalues[j] = temp;
 
-        fout = open(out_file, 'w')
+        fout = open(join(result_path, out_file), 'w')
         for pk in pkeys:
             pkpvalues = results[pk];
             for pkp in pkpvalues:

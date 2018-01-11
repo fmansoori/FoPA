@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<pathway name="path:hsa04975" org="hsa"  number="04975" title="Fat digestion and absorption">
+<entry id="50" type="protein" name="hsa:8611 hsa:8612 hsa:8613"/>
+<entry id="60" type="protein" name="hsa:10999"/>
+<entry id="61" type="protein" name="hsa:335"/>
+<entry id="62" type="protein" name="hsa:335"/>
+<entry id="63" type="protein" name="hsa:949"/>
+<entry id="66" type="protein" name="hsa:2169"/>
+<entry id="69" type="protein" name="hsa:2168"/>
+<entry id="25" type="protein" name="hsa:4547"/>
+<entry id="26" type="protein" name="hsa:338"/>
+<entry id="27" type="protein" name="hsa:338"/>
+<entry id="20" type="protein" name="hsa:346606 hsa:80168"/>
+<entry id="21" type="protein" name="hsa:84649 hsa:8694"/>
+<entry id="22" type="protein" name="hsa:39"/>
+<entry id="44" type="protein" name="hsa:1208"/>
+<entry id="40" type="protein" name="hsa:338"/>
+<entry id="41" type="protein" name="hsa:19"/>
+<entry id="5" type="protein" name="hsa:64241"/>
+<entry id="4" type="protein" name="hsa:64240"/>
+<entry id="7" type="protein" name="hsa:948"/>
+<entry id="6" type="protein" name="hsa:29881"/>
+<entry id="38" type="protein" name="hsa:337"/>
+<entry id="70" type="protein" name="hsa:2806"/>
+<entry id="11" type="protein" name="hsa:338"/>
+<entry id="39" type="protein" name="hsa:335"/>
+<entry id="12" type="protein" name="hsa:1056 hsa:26279 hsa:30814 hsa:391013 hsa:50487 hsa:5319 hsa:5320 hsa:5322 hsa:5406 hsa:5407 hsa:5408 hsa:64600 hsa:81579 hsa:8399 hsa:84647 hsa:8513"/>
+<entry id="19" type="protein" name="hsa:10554 hsa:10555"/>
+<entry id="57" type="protein" name="hsa:338"/>
+<entry id="56" type="protein" name="hsa:337"/>
+<entry id="37" type="protein" name="hsa:335"/>
+<entry id="36" type="protein" name="hsa:337"/>
+<entry id="35" type="protein" name="hsa:335"/>
+<entry id="34" type="protein" name="hsa:337"/>
+<entry id="54" type="compound" name="cpd:C01558"/>
+<entry id="42" type="compound" name="cpd:C00422"/>
+<entry id="43" type="compound" name="cpd:C00865"/>
+<entry id="64" type="compound" name="cpd:C00162 cpd:C00187"/>
+<entry id="49" type="compound" name="cpd:C00416"/>
+<entry id="67" type="compound" name="cpd:C00162"/>
+<entry id="68" type="compound" name="cpd:C00162"/>
+<entry id="24" type="compound" name="cpd:C00422"/>
+<entry id="48" type="compound" name="cpd:C00681"/>
+<entry id="23" type="compound" name="cpd:C02530"/>
+<entry id="46" type="compound" name="cpd:C00040"/>
+<entry id="47" type="compound" name="cpd:C00165"/>
+<entry id="45" type="compound" name="cpd:C00010"/>
+<entry id="28" type="compound" name="cpd:C00422"/>
+<entry id="29" type="compound" name="cpd:C02530"/>
+<entry id="9" type="compound" name="cpd:C00187"/>
+<entry id="8" type="compound" name="cpd:C00187"/>
+<entry id="72" type="compound" name="cpd:C00162"/>
+<entry id="71" type="compound" name="cpd:C00162"/>
+<entry id="58" type="compound" name="cpd:C00422"/>
+<entry id="10" type="compound" name="cpd:C00162"/>
+<entry id="13" type="compound" name="cpd:C01558"/>
+<entry id="59" type="compound" name="cpd:C02530"/>
+<entry id="14" type="compound" name="cpd:C00162"/>
+<entry id="17" type="compound" name="cpd:C02112 cpd:C01885"/>
+<entry id="16" type="compound" name="cpd:C00187"/>
+<entry id="33" type="compound" name="cpd:C02530"/>
+<entry id="18" type="compound" name="cpd:C00681"/>
+<entry id="31" type="compound" name="cpd:C02530"/>
+<entry id="30" type="compound" name="cpd:C00422"/>
+<entry id="53" type="compound" name="cpd:C02112 cpd:C01885"/>
+<entry id="52" type="compound" name="cpd:C00865 cpd:C00187"/>
+<entry id="55" type="compound" name="cpd:C01558"/>
+<entry id="32" type="compound" name="cpd:C00422"/>
+<entry id="65" type="compound" name="cpd:C00187"/>
+<relation entry1="19" entry2="50" type="ECrel" prob="0.95">
+<subtype name="compound"/>
+</relation>
+<relation entry1="50" entry2="21" type="ECrel" prob="0.95">
+<subtype name="compound"/>
+</relation>
+<relation entry1="20" entry2="21" type="ECrel" prob="0.95">
+<subtype name="compound"/>
+</relation>
+<relation entry1="19" entry2="50" type="ECrel" prob="0.5521677145">
+<subtype name="compound"/>
+</relation>
+<relation entry1="50" entry2="21" type="ECrel" prob="0.8571797628">
+<subtype name="compound"/>
+</relation>
+<relation entry1="20" entry2="21" type="ECrel" prob="0.3127437511">
+<subtype name="compound"/>
+</relation>
+</pathway>

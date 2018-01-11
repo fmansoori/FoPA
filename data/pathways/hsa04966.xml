@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<pathway name="path:hsa04966" org="hsa"  number="04966" title="Collecting duct acid secretion">
+<entry id="11" type="protein" name="hsa:760"/>
+<entry id="17" type="protein" name="hsa:10723"/>
+<entry id="18" type="protein" name="hsa:1188"/>
+<entry id="5" type="protein" name="hsa:6521"/>
+<entry id="4" type="protein" name="hsa:10312 hsa:127124 hsa:155066 hsa:23545 hsa:245972 hsa:245973 hsa:50617 hsa:51382 hsa:523 hsa:525 hsa:526 hsa:527 hsa:528 hsa:529 hsa:534 hsa:535 hsa:8992 hsa:90423 hsa:9114 hsa:9296 hsa:9550"/>
+<entry id="6" type="protein" name="hsa:495 hsa:496"/>
+<entry id="24" type="compound" name="cpd:C00080"/>
+<entry id="10" type="compound" name="cpd:C00288"/>
+<entry id="12" type="compound" name="cpd:C00698"/>
+<entry id="15" type="compound" name="cpd:C00014"/>
+<entry id="14" type="compound" name="cpd:C00288"/>
+<entry id="22" type="compound" name="cpd:C00080"/>
+<entry id="16" type="compound" name="cpd:C01353"/>
+<entry id="19" type="compound" name="cpd:C00238"/>
+<entry id="23" type="compound" name="cpd:C00238"/>
+<entry id="20" type="compound" name="cpd:C00698"/>
+<entry id="3" type="compound" name="cpd:C00001"/>
+<entry id="27" type="compound" name="cpd:C00011"/>
+<entry id="7" type="compound" name="cpd:C00080"/>
+<entry id="9" type="compound" name="cpd:C00080"/>
+<entry id="8" type="compound" name="cpd:C00011"/>
+<entry id="21" type="compound" name="cpd:C00698"/>
+</pathway>

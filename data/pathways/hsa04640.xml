@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<pathway name="path:hsa04640" org="hsa"  number="04640" title="Hematopoietic cell lineage">
+<entry id="133" type="protein" name="hsa:4254"/>
+<entry id="132" type="protein" name="hsa:4254"/>
+<entry id="131" type="protein" name="hsa:4254"/>
+<entry id="130" type="protein" name="hsa:4254"/>
+<entry id="137" type="protein" name="hsa:4254"/>
+<entry id="136" type="protein" name="hsa:4254"/>
+<entry id="135" type="protein" name="hsa:4254"/>
+<entry id="134" type="protein" name="hsa:4254"/>
+<entry id="139" type="protein" name="hsa:4254"/>
+<entry id="138" type="protein" name="hsa:4254"/>
+<entry id="24" type="protein" name="hsa:929"/>
+<entry id="25" type="protein" name="hsa:3684"/>
+<entry id="26" type="protein" name="hsa:3684"/>
+<entry id="27" type="protein" name="hsa:290"/>
+<entry id="20" type="protein" name="hsa:3568"/>
+<entry id="21" type="protein" name="hsa:1441"/>
+<entry id="22" type="protein" name="hsa:3554 hsa:7850"/>
+<entry id="23" type="protein" name="hsa:3581"/>
+<entry id="28" type="protein" name="hsa:290"/>
+<entry id="29" type="protein" name="hsa:3570"/>
+<entry id="4" type="protein" name="hsa:3655 hsa:3672 hsa:3673 hsa:3675 hsa:3676 hsa:3678"/>
+<entry id="8" type="protein" name="hsa:928"/>
+<entry id="119" type="protein" name="hsa:3565"/>
+<entry id="120" type="protein" name="hsa:3562"/>
+<entry id="121" type="protein" name="hsa:3562"/>
+<entry id="122" type="protein" name="hsa:3562"/>
+<entry id="123" type="protein" name="hsa:3562"/>
+<entry id="124" type="protein" name="hsa:3562"/>
+<entry id="125" type="protein" name="hsa:3562"/>
+<entry id="126" type="protein" name="hsa:3562"/>
+<entry id="127" type="protein" name="hsa:3562"/>
+<entry id="128" type="protein" name="hsa:3574"/>
+<entry id="129" type="protein" name="hsa:3574"/>
+<entry id="118" type="protein" name="hsa:3565"/>
+<entry id="59" type="protein" name="hsa:921"/>
+<entry id="58" type="protein" name="hsa:909 hsa:910 hsa:911 hsa:912 hsa:913"/>
+<entry id="55" type="protein" name="hsa:915 hsa:916 hsa:917"/>
+<entry id="54" type="protein" name="hsa:4311"/>
+<entry id="57" type="protein" name="hsa:920"/>
+<entry id="56" type="protein" name="hsa:925 hsa:926"/>
+<entry id="51" type="protein" name="hsa:933"/>
+<entry id="50" type="protein" name="hsa:100133941"/>
+<entry id="53" type="protein" name="hsa:928"/>
+<entry id="52" type="protein" name="hsa:930"/>
+<entry id="115" type="protein" name="hsa:3589"/>
+<entry id="114" type="protein" name="hsa:3552 hsa:3553"/>
+<entry id="88" type="protein" name="hsa:3122 hsa:3123 hsa:3125 hsa:3126 hsa:3127"/>
+<entry id="89" type="protein" name="hsa:3122 hsa:3123 hsa:3125 hsa:3126 hsa:3127"/>
+<entry id="111" type="protein" name="hsa:1437"/>
+<entry id="110" type="protein" name="hsa:1437"/>
+<entry id="113" type="protein" name="hsa:3565"/>
+<entry id="112" type="protein" name="hsa:1437"/>
+<entry id="82" type="protein" name="hsa:947"/>
+<entry id="83" type="protein" name="hsa:3122 hsa:3123 hsa:3125 hsa:3126 hsa:3127"/>
+<entry id="80" type="protein" name="hsa:1791"/>
+<entry id="81" type="protein" name="hsa:2322"/>
+<entry id="86" type="protein" name="hsa:3122 hsa:3123 hsa:3125 hsa:3126 hsa:3127"/>
+<entry id="87" type="protein" name="hsa:3122 hsa:3123 hsa:3125 hsa:3126 hsa:3127"/>
+<entry id="84" type="protein" name="hsa:3122 hsa:3123 hsa:3125 hsa:3126 hsa:3127"/>
+<entry id="85" type="protein" name="hsa:3122 hsa:3123 hsa:3125 hsa:3126 hsa:3127"/>
+<entry id="7" type="protein" name="hsa:929"/>
+<entry id="108" type="protein" name="hsa:1437"/>
+<entry id="109" type="protein" name="hsa:1437"/>
+<entry id="102" type="protein" name="hsa:2323"/>
+<entry id="103" type="protein" name="hsa:2323"/>
+<entry id="100" type="protein" name="hsa:2323"/>
+<entry id="101" type="protein" name="hsa:2323"/>
+<entry id="106" type="protein" name="hsa:1437"/>
+<entry id="107" type="protein" name="hsa:1437"/>
+<entry id="104" type="protein" name="hsa:3589"/>
+<entry id="105" type="protein" name="hsa:3569"/>
+<entry id="39" type="protein" name="hsa:3563"/>
+<entry id="38" type="protein" name="hsa:3563"/>
+<entry id="33" type="protein" name="hsa:3570"/>
+<entry id="32" type="protein" name="hsa:3570"/>
+<entry id="31" type="protein" name="hsa:2209"/>
+<entry id="30" type="protein" name="hsa:1436"/>
+<entry id="37" type="protein" name="hsa:1438"/>
+<entry id="36" type="protein" name="hsa:945"/>
+<entry id="35" type="protein" name="hsa:3566"/>
+<entry id="34" type="protein" name="hsa:3566"/>
+<entry id="60" type="protein" name="hsa:914"/>
+<entry id="61" type="protein" name="hsa:924"/>
+<entry id="62" type="protein" name="hsa:945"/>
+<entry id="63" type="protein" name="hsa:945"/>
+<entry id="64" type="protein" name="hsa:945"/>
+<entry id="65" type="protein" name="hsa:947"/>
+<entry id="66" type="protein" name="hsa:947"/>
+<entry id="67" type="protein" name="hsa:947"/>
+<entry id="68" type="protein" name="hsa:952"/>
+<entry id="69" type="protein" name="hsa:952"/>
+<entry id="6" type="protein" name="hsa:3674"/>
+<entry id="99" type="protein" name="hsa:2323"/>
+<entry id="98" type="protein" name="hsa:2323"/>
+<entry id="90" type="protein" name="hsa:7066"/>
+<entry id="93" type="protein" name="hsa:2056"/>
+<entry id="92" type="protein" name="hsa:7066"/>
+<entry id="95" type="protein" name="hsa:1435"/>
+<entry id="94" type="protein" name="hsa:7124"/>
+<entry id="97" type="protein" name="hsa:1440"/>
+<entry id="96" type="protein" name="hsa:1440"/>
+<entry id="11" type="protein" name="hsa:966"/>
+<entry id="10" type="protein" name="hsa:3590"/>
+<entry id="13" type="protein" name="hsa:1378"/>
+<entry id="12" type="protein" name="hsa:1604"/>
+<entry id="15" type="protein" name="hsa:2993"/>
+<entry id="14" type="protein" name="hsa:960"/>
+<entry id="17" type="protein" name="hsa:948"/>
+<entry id="16" type="protein" name="hsa:948"/>
+<entry id="19" type="protein" name="hsa:2057"/>
+<entry id="18" type="protein" name="hsa:3815"/>
+<entry id="117" type="protein" name="hsa:3567"/>
+<entry id="116" type="protein" name="hsa:3569"/>
+<entry id="48" type="protein" name="hsa:1380"/>
+<entry id="49" type="protein" name="hsa:931"/>
+<entry id="46" type="protein" name="hsa:2208"/>
+<entry id="47" type="protein" name="hsa:951"/>
+<entry id="45" type="protein" name="hsa:1378"/>
+<entry id="42" type="protein" name="hsa:3563"/>
+<entry id="43" type="protein" name="hsa:1438"/>
+<entry id="40" type="protein" name="hsa:3563"/>
+<entry id="41" type="protein" name="hsa:1438"/>
+<entry id="5" type="protein" name="hsa:2811 hsa:2812 hsa:2814 hsa:2815"/>
+<entry id="9" type="protein" name="hsa:3690"/>
+<entry id="140" type="protein" name="hsa:3574"/>
+<entry id="77" type="protein" name="hsa:960"/>
+<entry id="76" type="protein" name="hsa:3815"/>
+<entry id="75" type="protein" name="hsa:3815"/>
+<entry id="74" type="protein" name="hsa:3559"/>
+<entry id="73" type="protein" name="hsa:3559"/>
+<entry id="72" type="protein" name="hsa:3575"/>
+<entry id="71" type="protein" name="hsa:3575"/>
+<entry id="70" type="protein" name="hsa:7037"/>
+<entry id="79" type="protein" name="hsa:1791"/>
+<entry id="78" type="protein" name="hsa:1791"/>
+<entry id="3" type="compound" name="gl:G01078 gl:G01493"/>
+<entry id="2" type="compound" name="gl:G01078 gl:G01493"/>
+</pathway>

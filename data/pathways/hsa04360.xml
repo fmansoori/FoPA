@@ -1,0 +1,483 @@
+<?xml version="1.0"?>
+<pathway name="path:hsa04360" org="hsa"  number="04360" title="Axon guidance">
+<entry id="56" type="protein" name="hsa:2534"/>
+<entry id="81" type="protein" name="hsa:3897"/>
+<entry id="54" type="protein" name="hsa:8482"/>
+<entry id="51" type="protein" name="hsa:5747"/>
+<entry id="48" type="protein" name="hsa:57689"/>
+<entry id="82" type="protein" name="hsa:1072 hsa:1073"/>
+<entry id="62" type="protein" name="hsa:23365"/>
+<entry id="63" type="protein" name="hsa:4233"/>
+<entry id="64" type="protein" name="hsa:29984"/>
+<entry id="53" type="protein" name="hsa:2047 hsa:2048 hsa:2049 hsa:2050 hsa:2051"/>
+<entry id="66" type="protein" name="hsa:5594 hsa:5595"/>
+<entry id="67" type="protein" name="hsa:56896"/>
+<entry id="68" type="protein" name="hsa:27289"/>
+<entry id="69" type="protein" name="hsa:3984 hsa:3985"/>
+<entry id="80" type="protein" name="hsa:8829"/>
+<entry id="52" type="protein" name="hsa:1947 hsa:1948 hsa:1949"/>
+<entry id="86" type="protein" name="hsa:8440"/>
+<entry id="87" type="protein" name="hsa:64101"/>
+<entry id="84" type="protein" name="hsa:6387"/>
+<entry id="85" type="protein" name="hsa:2932"/>
+<entry id="24" type="protein" name="hsa:10298 hsa:5058 hsa:5062 hsa:5063 hsa:56924 hsa:57144"/>
+<entry id="25" type="protein" name="hsa:10298 hsa:5058 hsa:5062 hsa:5063 hsa:56924 hsa:57144"/>
+<entry id="26" type="protein" name="hsa:387"/>
+<entry id="27" type="protein" name="hsa:387"/>
+<entry id="20" type="protein" name="hsa:2534"/>
+<entry id="21" type="protein" name="hsa:5747"/>
+<entry id="22" type="protein" name="hsa:998"/>
+<entry id="23" type="protein" name="hsa:6093 hsa:9475"/>
+<entry id="46" type="protein" name="hsa:7852"/>
+<entry id="47" type="protein" name="hsa:1969 hsa:2041 hsa:2042 hsa:2043 hsa:2044 hsa:2045 hsa:2046 hsa:285220"/>
+<entry id="44" type="protein" name="hsa:25"/>
+<entry id="45" type="protein" name="hsa:137970 hsa:219699 hsa:8633 hsa:90249"/>
+<entry id="42" type="protein" name="hsa:25791"/>
+<entry id="43" type="protein" name="hsa:5921"/>
+<entry id="40" type="protein" name="hsa:1808"/>
+<entry id="41" type="protein" name="hsa:6091"/>
+<entry id="1" type="protein" name="hsa:27289"/>
+<entry id="3" type="protein" name="hsa:2770 hsa:2771 hsa:2773"/>
+<entry id="2" type="protein" name="hsa:2770 hsa:2771 hsa:2773"/>
+<entry id="5" type="protein" name="hsa:5594 hsa:5595"/>
+<entry id="4" type="protein" name="hsa:7852"/>
+<entry id="7" type="protein" name="hsa:5879 hsa:5880 hsa:5881"/>
+<entry id="6" type="protein" name="hsa:5879 hsa:5880 hsa:5881"/>
+<entry id="9" type="protein" name="hsa:5879 hsa:5880 hsa:5881"/>
+<entry id="8" type="protein" name="hsa:5879 hsa:5880 hsa:5881"/>
+<entry id="78" type="protein" name="hsa:1020"/>
+<entry id="83" type="protein" name="hsa:10298 hsa:5058 hsa:5062 hsa:5063 hsa:56924 hsa:57144"/>
+<entry id="39" type="protein" name="hsa:6093 hsa:9475"/>
+<entry id="77" type="protein" name="hsa:23380 hsa:57522 hsa:9901"/>
+<entry id="76" type="protein" name="hsa:54437 hsa:9037"/>
+<entry id="75" type="protein" name="hsa:10505 hsa:10507 hsa:10509 hsa:54910 hsa:57715 hsa:64218"/>
+<entry id="38" type="protein" name="hsa:64221"/>
+<entry id="73" type="protein" name="hsa:10371 hsa:10512 hsa:223117 hsa:56920 hsa:6405 hsa:7869 hsa:9723"/>
+<entry id="72" type="protein" name="hsa:5361 hsa:5362 hsa:55558"/>
+<entry id="71" type="protein" name="hsa:3265 hsa:3845 hsa:4893"/>
+<entry id="70" type="protein" name="hsa:23654 hsa:5364 hsa:5365"/>
+<entry id="59" type="protein" name="hsa:5998"/>
+<entry id="79" type="protein" name="hsa:2242"/>
+<entry id="58" type="protein" name="hsa:9423"/>
+<entry id="11" type="protein" name="hsa:1630"/>
+<entry id="10" type="protein" name="hsa:1630"/>
+<entry id="13" type="protein" name="hsa:5530 hsa:5532 hsa:5533 hsa:5534 hsa:5535"/>
+<entry id="12" type="protein" name="hsa:4773 hsa:4775 hsa:4776"/>
+<entry id="15" type="protein" name="hsa:22854"/>
+<entry id="14" type="protein" name="hsa:22885 hsa:3983 hsa:84448"/>
+<entry id="17" type="protein" name="hsa:6586"/>
+<entry id="16" type="protein" name="hsa:59277"/>
+<entry id="19" type="protein" name="hsa:6585"/>
+<entry id="18" type="protein" name="hsa:9353"/>
+<entry id="57" type="protein" name="hsa:387"/>
+<entry id="49" type="protein" name="hsa:6092"/>
+<entry id="37" type="protein" name="hsa:4690"/>
+<entry id="50" type="protein" name="hsa:4917"/>
+<entry id="35" type="protein" name="hsa:998"/>
+<entry id="34" type="protein" name="hsa:1630"/>
+<entry id="33" type="protein" name="hsa:5921"/>
+<entry id="55" type="protein" name="hsa:1942 hsa:1943 hsa:1944 hsa:1945 hsa:1946"/>
+<entry id="74" type="protein" name="hsa:10500 hsa:10501 hsa:57556 hsa:80031"/>
+<entry id="88" type="protein" name="hsa:84628"/>
+<entry id="32" type="protein" name="hsa:3688"/>
+<entry id="65" type="protein" name="hsa:10154"/>
+<entry id="36" type="compound" name="cpd:C00076"/>
+<entry id="90" type="group">
+<component id="10"/>
+<component id="45"/>
+</entry>
+<entry id="89" type="group">
+<component id="11"/>
+<component id="34"/>
+</entry>
+<relation entry1="70" entry2="62" type="PPrel" prob="0.95">
+<subtype name="activation"/>
+</relation>
+<relation entry1="1" entry2="62" type="PPrel" prob="0.5">
+<subtype name="activation"/>
+</relation>
+<relation entry1="54" entry2="65" type="PPrel" prob="0.95">
+<subtype name="activation"/>
+</relation>
+<relation entry1="69" entry2="82" type="PPrel" prob="0.95">
+<subtype name="inhibition"/>
+</relation>
+<relation entry1="24" entry2="69" type="PPrel" prob="0.5">
+<subtype name="activation"/>
+</relation>
+<relation entry1="73" entry2="80" type="PPrel" prob="0.95">
+<subtype name="activation"/>
+</relation>
+<relation entry1="81" entry2="80" type="PPrel" prob="0.95">
+<subtype name="activation"/>
+</relation>
+<relation entry1="52" entry2="86" type="PPrel" prob="0.95">
+<subtype name="activation"/>
+</relation>
+<relation entry1="6" entry2="24" type="PPrel" prob="0.1875">
+<subtype name="activation"/>
+</relation>
+<relation entry1="22" entry2="24" type="PPrel" prob="0.3">
+<subtype name="activation"/>
+</relation>
+<relation entry1="42" entry2="26" type="PPrel" prob="0.3333333333">
+<subtype name="activation"/>
+</relation>
+<relation entry1="62" entry2="26" type="PPrel" prob="0.25">
+<subtype name="activation"/>
+</relation>
+<relation entry1="10" entry2="26" type="PPrel" prob="0.1111111111">
+<subtype name="inhibition"/>
+</relation>
+<relation entry1="55" entry2="20" type="PPrel" prob="0.5">
+<subtype name="activation"/>
+</relation>
+<relation entry1="86" entry2="21" type="PPrel" prob="0.5">
+<subtype name="activation"/>
+</relation>
+<relation entry1="32" entry2="21" type="PPrel" prob="0.4">
+<subtype name="indirect effect"/>
+</relation>
+<relation entry1="42" entry2="22" type="PPrel" prob="0.5">
+<subtype name="inhibition"/>
+</relation>
+<relation entry1="77" entry2="22" type="PPrel" prob="0.5">
+<subtype name="inhibition"/>
+</relation>
+<relation entry1="26" entry2="23" type="PPrel" prob="0.4761904762">
+<subtype name="activation"/>
+</relation>
+<relation entry1="55" entry2="47" type="PPrel" prob="0.95">
+<subtype name="activation"/>
+</relation>
+<relation entry1="47" entry2="44" type="PPrel" prob="0.95">
+<subtype name="activation"/>
+</relation>
+<relation entry1="53" entry2="44" type="PPrel" prob="0.95">
+<subtype name="activation"/>
+</relation>
+<relation entry1="58" entry2="45" type="PPrel" prob="0.95">
+<subtype name="activation"/>
+</relation>
+<relation entry1="47" entry2="42" type="PPrel" prob="0.95">
+<subtype name="activation"/>
+</relation>
+<relation entry1="85" entry2="40" type="PPrel" prob="0.95">
+<subtype name="activation"/>
+</relation>
+<relation entry1="78" entry2="40" type="PPrel" prob="0.95">
+<subtype name="activation"/>
+</relation>
+<relation entry1="79" entry2="40" type="PPrel" prob="0.95">
+<subtype name="activation"/>
+</relation>
+<relation entry1="19" entry2="41" type="PPrel" prob="0.95">
+<subtype name="activation"/>
+</relation>
+<relation entry1="18" entry2="41" type="PPrel" prob="0.95">
+<subtype name="activation"/>
+</relation>
+<relation entry1="38" entry2="41" type="PPrel" prob="0.95">
+<subtype name="inhibition"/>
+</relation>
+<relation entry1="72" entry2="1" type="PPrel" prob="0.5">
+<subtype name="activation"/>
+</relation>
+<relation entry1="70" entry2="1" type="PPrel" prob="0.5">
+<subtype name="activation"/>
+</relation>
+<relation entry1="64" entry2="1" type="PPrel" prob="0.5">
+<subtype name="inhibition"/>
+</relation>
+<relation entry1="4" entry2="2" type="PPrel" prob="0.4">
+<subtype name="activation"/>
+</relation>
+<relation entry1="59" entry2="2" type="PPrel" prob="0.5">
+<subtype name="inhibition"/>
+</relation>
+<relation entry1="71" entry2="5" type="PPrel" prob="0.0178571429">
+<subtype name="indirect effect"/>
+</relation>
+<relation entry1="21" entry2="5" type="PPrel" prob="0.1">
+<subtype name="indirect effect"/>
+</relation>
+<relation entry1="84" entry2="4" type="PPrel" prob="0.8">
+<subtype name="activation"/>
+</relation>
+<relation entry1="37" entry2="6" type="PPrel" prob="0.25">
+<subtype name="activation"/>
+</relation>
+<relation entry1="72" entry2="6" type="PPrel" prob="0.25">
+<subtype name="activation"/>
+</relation>
+<relation entry1="42" entry2="6" type="PPrel" prob="0.25">
+<subtype name="inhibition"/>
+</relation>
+<relation entry1="70" entry2="6" type="PPrel" prob="0.25">
+<subtype name="inhibition"/>
+</relation>
+<relation entry1="49" entry2="77" type="PPrel" prob="0.95">
+<subtype name="activation"/>
+</relation>
+<relation entry1="41" entry2="77" type="PPrel" prob="0.95">
+<subtype name="activation"/>
+</relation>
+<relation entry1="20" entry2="72" type="PPrel" prob="0.5">
+<subtype name="activation"/>
+</relation>
+<relation entry1="79" entry2="72" type="PPrel" prob="0.95">
+<subtype name="activation"/>
+</relation>
+<relation entry1="64" entry2="72" type="PPrel" prob="0.95">
+<subtype name="binding/association"/>
+</relation>
+<relation entry1="33" entry2="71" type="PPrel" prob="0.5">
+<subtype name="inhibition"/>
+</relation>
+<relation entry1="75" entry2="70" type="PPrel" prob="0.95">
+<subtype name="activation"/>
+</relation>
+<relation entry1="72" entry2="78" type="PPrel" prob="0.95">
+<subtype name="binding/association"/>
+</relation>
+<relation entry1="20" entry2="78" type="PPrel" prob="0.5">
+<subtype name="activation"/>
+</relation>
+<relation entry1="58" entry2="10" type="PPrel" prob="0.3333333333">
+<subtype name="activation"/>
+</relation>
+<relation entry1="10" entry2="13" type="PPrel" prob="0.3333333333">
+<subtype name="compound"/>
+</relation>
+<relation entry1="13" entry2="12" type="PPrel" prob="0.95">
+<subtype name="activation"/>
+</relation>
+<relation entry1="52" entry2="59" type="PPrel" prob="0.95">
+<subtype name="binding/association"/>
+</relation>
+<relation entry1="6" entry2="14" type="PPrel" prob="0.25">
+<subtype name="activation"/>
+</relation>
+<relation entry1="55" entry2="33" type="PPrel" prob="0.5">
+<subtype name="activation"/>
+</relation>
+<relation entry1="47" entry2="33" type="PPrel" prob="0.5">
+<subtype name="activation"/>
+</relation>
+<relation entry1="53" entry2="33" type="PPrel" prob="0.5">
+<subtype name="activation"/>
+</relation>
+<relation entry1="54" entry2="32" type="PPrel" prob="0.95">
+<subtype name="activation"/>
+</relation>
+<relation entry1="19" entry2="49" type="PPrel" prob="0.95">
+<subtype name="activation"/>
+</relation>
+<relation entry1="18" entry2="49" type="PPrel" prob="0.95">
+<subtype name="activation"/>
+</relation>
+<relation entry1="10" entry2="37" type="PPrel" prob="0.3333333333">
+<subtype name="activation"/>
+</relation>
+<relation entry1="53" entry2="52" type="PPrel" prob="0.95">
+<subtype name="activation"/>
+</relation>
+<relation entry1="15" entry2="48" type="PPrel" prob="0.5">
+<subtype name="binding/association"/>
+</relation>
+<relation entry1="70" entry2="62" type="PPrel" prob="0.7819150825">
+<subtype name="activation"/>
+</relation>
+<relation entry1="1" entry2="62" type="PPrel" prob="0.8068440023">
+<subtype name="activation"/>
+</relation>
+<relation entry1="54" entry2="65" type="PPrel" prob="0.3632500709">
+<subtype name="activation"/>
+</relation>
+<relation entry1="69" entry2="82" type="PPrel" prob="0.3336671762">
+<subtype name="inhibition"/>
+</relation>
+<relation entry1="24" entry2="69" type="PPrel" prob="0.4126906734">
+<subtype name="activation"/>
+</relation>
+<relation entry1="73" entry2="80" type="PPrel" prob="0.4702878738">
+<subtype name="activation"/>
+</relation>
+<relation entry1="81" entry2="80" type="PPrel" prob="0.0954915796">
+<subtype name="activation"/>
+</relation>
+<relation entry1="52" entry2="86" type="PPrel" prob="0.0505840797">
+<subtype name="activation"/>
+</relation>
+<relation entry1="6" entry2="24" type="PPrel" prob="0.1365692491">
+<subtype name="activation"/>
+</relation>
+<relation entry1="22" entry2="24" type="PPrel" prob="0.2344466003">
+<subtype name="activation"/>
+</relation>
+<relation entry1="42" entry2="26" type="PPrel" prob="0.694129838">
+<subtype name="activation"/>
+</relation>
+<relation entry1="62" entry2="26" type="PPrel" prob="0.9792532582">
+<subtype name="activation"/>
+</relation>
+<relation entry1="10" entry2="26" type="PPrel" prob="0.8590122562">
+<subtype name="inhibition"/>
+</relation>
+<relation entry1="55" entry2="20" type="PPrel" prob="0.8200970523">
+<subtype name="activation"/>
+</relation>
+<relation entry1="86" entry2="21" type="PPrel" prob="0.9058033295">
+<subtype name="activation"/>
+</relation>
+<relation entry1="32" entry2="21" type="PPrel" prob="0.0041370216">
+<subtype name="indirect effect"/>
+</relation>
+<relation entry1="42" entry2="22" type="PPrel" prob="0.7257732035">
+<subtype name="inhibition"/>
+</relation>
+<relation entry1="77" entry2="22" type="PPrel" prob="0.2243967891">
+<subtype name="inhibition"/>
+</relation>
+<relation entry1="26" entry2="23" type="PPrel" prob="0.321576406">
+<subtype name="activation"/>
+</relation>
+<relation entry1="55" entry2="47" type="PPrel" prob="0.158755983">
+<subtype name="activation"/>
+</relation>
+<relation entry1="47" entry2="44" type="PPrel" prob="0.1116243963">
+<subtype name="activation"/>
+</relation>
+<relation entry1="53" entry2="44" type="PPrel" prob="0.6278288193">
+<subtype name="activation"/>
+</relation>
+<relation entry1="58" entry2="45" type="PPrel" prob="0.9656491165">
+<subtype name="activation"/>
+</relation>
+<relation entry1="47" entry2="42" type="PPrel" prob="0.3157127311">
+<subtype name="activation"/>
+</relation>
+<relation entry1="85" entry2="40" type="PPrel" prob="0.1771402458">
+<subtype name="activation"/>
+</relation>
+<relation entry1="78" entry2="40" type="PPrel" prob="0.7074298572">
+<subtype name="activation"/>
+</relation>
+<relation entry1="79" entry2="40" type="PPrel" prob="0.1319960729">
+<subtype name="activation"/>
+</relation>
+<relation entry1="19" entry2="41" type="PPrel" prob="0.2523141588">
+<subtype name="activation"/>
+</relation>
+<relation entry1="18" entry2="41" type="PPrel" prob="0.3424694141">
+<subtype name="activation"/>
+</relation>
+<relation entry1="38" entry2="41" type="PPrel" prob="0.6620380121">
+<subtype name="inhibition"/>
+</relation>
+<relation entry1="72" entry2="1" type="PPrel" prob="0.65516635">
+<subtype name="activation"/>
+</relation>
+<relation entry1="70" entry2="1" type="PPrel" prob="0.0890524253">
+<subtype name="activation"/>
+</relation>
+<relation entry1="64" entry2="1" type="PPrel" prob="0.5858283072">
+<subtype name="inhibition"/>
+</relation>
+<relation entry1="4" entry2="2" type="PPrel" prob="0.8778673465">
+<subtype name="activation"/>
+</relation>
+<relation entry1="59" entry2="2" type="PPrel" prob="0.5648227538">
+<subtype name="inhibition"/>
+</relation>
+<relation entry1="71" entry2="5" type="PPrel" prob="0.5933215167">
+<subtype name="indirect effect"/>
+</relation>
+<relation entry1="21" entry2="5" type="PPrel" prob="0.1189820345">
+<subtype name="indirect effect"/>
+</relation>
+<relation entry1="84" entry2="4" type="PPrel" prob="0.1597455579">
+<subtype name="activation"/>
+</relation>
+<relation entry1="37" entry2="6" type="PPrel" prob="0.0181339294">
+<subtype name="activation"/>
+</relation>
+<relation entry1="72" entry2="6" type="PPrel" prob="0.1273555455">
+<subtype name="activation"/>
+</relation>
+<relation entry1="42" entry2="6" type="PPrel" prob="0.3425732661">
+<subtype name="inhibition"/>
+</relation>
+<relation entry1="70" entry2="6" type="PPrel" prob="0.1736862132">
+<subtype name="inhibition"/>
+</relation>
+<relation entry1="49" entry2="77" type="PPrel" prob="0.5595167841">
+<subtype name="activation"/>
+</relation>
+<relation entry1="41" entry2="77" type="PPrel" prob="0.5980000872">
+<subtype name="activation"/>
+</relation>
+<relation entry1="20" entry2="72" type="PPrel" prob="0.6606311099">
+<subtype name="activation"/>
+</relation>
+<relation entry1="79" entry2="72" type="PPrel" prob="0.6245636733">
+<subtype name="activation"/>
+</relation>
+<relation entry1="64" entry2="72" type="PPrel" prob="0.0675798802">
+<subtype name="binding/association"/>
+</relation>
+<relation entry1="33" entry2="71" type="PPrel" prob="0.929125925">
+<subtype name="inhibition"/>
+</relation>
+<relation entry1="75" entry2="70" type="PPrel" prob="0.2526075499">
+<subtype name="activation"/>
+</relation>
+<relation entry1="72" entry2="78" type="PPrel" prob="0.5581188444">
+<subtype name="binding/association"/>
+</relation>
+<relation entry1="20" entry2="78" type="PPrel" prob="0.3759420743">
+<subtype name="activation"/>
+</relation>
+<relation entry1="58" entry2="10" type="PPrel" prob="0.7478052308">
+<subtype name="activation"/>
+</relation>
+<relation entry1="10" entry2="13" type="PPrel" prob="0.8724243265">
+<subtype name="compound"/>
+</relation>
+<relation entry1="13" entry2="12" type="PPrel" prob="0.2268880656">
+<subtype name="activation"/>
+</relation>
+<relation entry1="52" entry2="59" type="PPrel" prob="0.5654140551">
+<subtype name="binding/association"/>
+</relation>
+<relation entry1="6" entry2="14" type="PPrel" prob="0.1081535134">
+<subtype name="activation"/>
+</relation>
+<relation entry1="55" entry2="33" type="PPrel" prob="0.8859631246">
+<subtype name="activation"/>
+</relation>
+<relation entry1="47" entry2="33" type="PPrel" prob="0.455371101">
+<subtype name="activation"/>
+</relation>
+<relation entry1="53" entry2="33" type="PPrel" prob="0.0145393445">
+<subtype name="activation"/>
+</relation>
+<relation entry1="54" entry2="32" type="PPrel" prob="0.8598225729">
+<subtype name="activation"/>
+</relation>
+<relation entry1="19" entry2="49" type="PPrel" prob="0.2279138497">
+<subtype name="activation"/>
+</relation>
+<relation entry1="18" entry2="49" type="PPrel" prob="0.62591514">
+<subtype name="activation"/>
+</relation>
+<relation entry1="10" entry2="37" type="PPrel" prob="0.5778184507">
+<subtype name="activation"/>
+</relation>
+<relation entry1="53" entry2="52" type="PPrel" prob="0.8596138429">
+<subtype name="activation"/>
+</relation>
+<relation entry1="15" entry2="48" type="PPrel" prob="0.0427448624">
+<subtype name="binding/association"/>
+</relation>
+</pathway>

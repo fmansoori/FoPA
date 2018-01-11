@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<pathway name="path:hsa04977" org="hsa"  number="04977" title="Vitamin digestion and absorption">
+<entry id="56" type="protein" name="hsa:8884"/>
+<entry id="51" type="protein" name="hsa:25974"/>
+<entry id="117" type="protein" name="hsa:113235"/>
+<entry id="63" type="protein" name="hsa:10560 hsa:80704"/>
+<entry id="110" type="protein" name="hsa:158835"/>
+<entry id="24" type="protein" name="hsa:949"/>
+<entry id="47" type="protein" name="hsa:8029"/>
+<entry id="44" type="protein" name="hsa:2694"/>
+<entry id="45" type="protein" name="hsa:8029"/>
+<entry id="42" type="protein" name="hsa:6948"/>
+<entry id="43" type="protein" name="hsa:6948"/>
+<entry id="41" type="protein" name="hsa:4363"/>
+<entry id="5" type="protein" name="hsa:338"/>
+<entry id="6" type="protein" name="hsa:338"/>
+<entry id="96" type="protein" name="hsa:113278"/>
+<entry id="39" type="protein" name="hsa:2694"/>
+<entry id="120" type="protein" name="hsa:5406"/>
+<entry id="121" type="protein" name="hsa:151056"/>
+<entry id="38" type="protein" name="hsa:55788"/>
+<entry id="71" type="protein" name="hsa:686"/>
+<entry id="90" type="protein" name="hsa:949"/>
+<entry id="79" type="protein" name="hsa:2346"/>
+<entry id="58" type="protein" name="hsa:6573"/>
+<entry id="11" type="protein" name="hsa:337"/>
+<entry id="13" type="protein" name="hsa:337"/>
+<entry id="12" type="protein" name="hsa:335"/>
+<entry id="15" type="protein" name="hsa:335"/>
+<entry id="14" type="protein" name="hsa:335"/>
+<entry id="17" type="protein" name="hsa:337"/>
+<entry id="55" type="protein" name="hsa:9227"/>
+<entry id="18" type="protein" name="hsa:338"/>
+<entry id="31" type="protein" name="hsa:8029"/>
+<entry id="30" type="protein" name="hsa:8029"/>
+<entry id="37" type="protein" name="hsa:2694"/>
+<entry id="36" type="protein" name="hsa:2694"/>
+<entry id="35" type="protein" name="hsa:2694"/>
+<entry id="54" type="protein" name="hsa:5948"/>
+<entry id="57" type="protein" name="hsa:9963"/>
+<entry id="122" type="compound" name="cpd:C00153"/>
+<entry id="113" type="compound" name="cpd:C00120"/>
+<entry id="112" type="compound" name="cpd:C00255"/>
+<entry id="98" type="compound" name="cpd:C00018"/>
+<entry id="60" type="compound" name="cpd:C00120 cpd:C00864"/>
+<entry id="61" type="compound" name="cpd:C01330"/>
+<entry id="62" type="compound" name="cpd:C00072"/>
+<entry id="89" type="compound" name="cpd:C00504"/>
+<entry id="111" type="compound" name="cpd:C00378"/>
+<entry id="65" type="compound" name="cpd:C00378"/>
+<entry id="66" type="compound" name="cpd:C00068"/>
+<entry id="67" type="compound" name="cpd:C00061"/>
+<entry id="68" type="compound" name="cpd:C00016"/>
+<entry id="69" type="compound" name="cpd:C00255"/>
+<entry id="80" type="compound" name="cpd:C00504"/>
+<entry id="81" type="compound" name="cpd:C00003"/>
+<entry id="86" type="compound" name="cpd:C00828"/>
+<entry id="87" type="compound" name="cpd:C02075 cpd:C05443 cpd:C02477 cpd:C02059 cpd:C00828 cpd:C05377"/>
+<entry id="84" type="compound" name="cpd:C02059"/>
+<entry id="85" type="compound" name="cpd:C05377"/>
+<entry id="123" type="compound" name="cpd:C00018"/>
+<entry id="25" type="compound" name="cpd:C00473"/>
+<entry id="26" type="compound" name="cpd:C13202 cpd:C12981"/>
+<entry id="27" type="compound" name="cpd:C02477"/>
+<entry id="20" type="compound" name="cpd:C02530"/>
+<entry id="21" type="compound" name="cpd:C02075 cpd:C05443 cpd:C02477 cpd:C02059 cpd:C00828 cpd:C05377"/>
+<entry id="22" type="compound" name="cpd:C02075 cpd:C05443 cpd:C02477 cpd:C02059 cpd:C00828 cpd:C05377"/>
+<entry id="49" type="compound" name="cpd:C05776"/>
+<entry id="46" type="compound" name="cpd:C05776"/>
+<entry id="106" type="compound" name="cpd:C02094"/>
+<entry id="82" type="compound" name="cpd:C00153"/>
+<entry id="28" type="compound" name="cpd:C02075"/>
+<entry id="29" type="compound" name="cpd:C00473"/>
+<entry id="40" type="compound" name="cpd:C05776"/>
+<entry id="107" type="compound" name="cpd:C00376"/>
+<entry id="7" type="compound" name="cpd:C00422"/>
+<entry id="108" type="compound" name="cpd:C02094"/>
+<entry id="9" type="compound" name="cpd:C00422"/>
+<entry id="8" type="compound" name="cpd:C02530"/>
+<entry id="115" type="compound" name="cpd:C00072"/>
+<entry id="83" type="compound" name="cpd:C05443"/>
+<entry id="119" type="compound" name="cpd:C00080"/>
+<entry id="77" type="compound" name="cpd:C00010"/>
+<entry id="76" type="compound" name="cpd:C00534"/>
+<entry id="75" type="compound" name="cpd:C00647"/>
+<entry id="74" type="compound" name="cpd:C00120"/>
+<entry id="73" type="compound" name="cpd:C00378"/>
+<entry id="72" type="compound" name="cpd:C00072"/>
+<entry id="70" type="compound" name="cpd:C05552"/>
+<entry id="91" type="compound" name="cpd:C00681"/>
+<entry id="93" type="compound" name="cpd:C00473 cpd:C02094 cpd:C05443 cpd:C02477 cpd:C02059 cpd:C00828 cpd:C05377"/>
+<entry id="92" type="compound" name="cpd:C02112 cpd:C01885"/>
+<entry id="95" type="compound" name="cpd:C00187"/>
+<entry id="94" type="compound" name="cpd:C00162"/>
+<entry id="97" type="compound" name="cpd:C00255"/>
+<entry id="78" type="compound" name="cpd:C00864"/>
+<entry id="118" type="compound" name="cpd:C00504"/>
+<entry id="10" type="compound" name="cpd:C02530"/>
+<entry id="59" type="compound" name="cpd:C01330"/>
+<entry id="48" type="compound" name="cpd:C05776"/>
+<entry id="16" type="compound" name="cpd:C01558"/>
+<entry id="19" type="compound" name="cpd:C00422"/>
+<entry id="32" type="compound" name="cpd:C05776"/>
+<entry id="23" type="compound" name="cpd:C02075"/>
+<entry id="50" type="compound" name="cpd:C05776"/>
+<entry id="34" type="compound" name="cpd:C05776"/>
+<entry id="99" type="compound" name="cpd:C00250"/>
+<entry id="33" type="compound" name="cpd:C05776"/>
+<entry id="116" type="compound" name="cpd:C00504"/>
+<entry id="88" type="compound" name="cpd:C02477"/>
+<entry id="114" type="compound" name="cpd:C00864"/>
+<entry id="124" type="group">
+<component id="44"/>
+<component id="45"/>
+</entry>
+</pathway>

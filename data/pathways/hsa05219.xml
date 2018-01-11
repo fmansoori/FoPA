@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<pathway name="path:hsa05219" org="hsa"  number="05219" title="Bladder cancer">
+<entry id="25" type="protein" name="hsa:595"/>
+<entry id="27" type="protein" name="hsa:9252"/>
+<entry id="20" type="protein" name="hsa:1869 hsa:1870 hsa:1871"/>
+<entry id="21" type="protein" name="hsa:5925"/>
+<entry id="22" type="protein" name="hsa:2261"/>
+<entry id="23" type="protein" name="hsa:1019"/>
+<entry id="28" type="protein" name="hsa:1029"/>
+<entry id="29" type="protein" name="hsa:1950"/>
+<entry id="2" type="protein" name="hsa:3265"/>
+<entry id="5" type="protein" name="hsa:4312 hsa:4313 hsa:4318"/>
+<entry id="7" type="protein" name="hsa:7422"/>
+<entry id="6" type="protein" name="hsa:1890"/>
+<entry id="9" type="protein" name="hsa:7057"/>
+<entry id="8" type="protein" name="hsa:3576"/>
+<entry id="39" type="protein" name="hsa:6714"/>
+<entry id="38" type="protein" name="hsa:1839"/>
+<entry id="11" type="protein" name="hsa:999"/>
+<entry id="10" type="protein" name="hsa:1956"/>
+<entry id="13" type="protein" name="hsa:1029"/>
+<entry id="12" type="protein" name="hsa:2064"/>
+<entry id="15" type="protein" name="hsa:4609"/>
+<entry id="14" type="protein" name="hsa:1026"/>
+<entry id="17" type="protein" name="hsa:1612 hsa:1613 hsa:23604"/>
+<entry id="16" type="protein" name="hsa:11186"/>
+<entry id="19" type="protein" name="hsa:7157"/>
+<entry id="18" type="protein" name="hsa:4193"/>
+<entry id="37" type="protein" name="hsa:7380"/>
+<entry id="36" type="protein" name="hsa:4313 hsa:4318"/>
+<entry id="35" type="protein" name="hsa:3265 hsa:3845 hsa:4893"/>
+<entry id="34" type="protein" name="hsa:369 hsa:5894 hsa:673"/>
+<entry id="33" type="protein" name="hsa:5604 hsa:5605"/>
+<entry id="32" type="protein" name="hsa:5594 hsa:5595"/>
+<entry id="40" type="group">
+<component id="23"/>
+<component id="25"/>
+</entry>
+<relation entry1="29" entry2="10" type="PPrel" prob="0.5">
+<subtype name="activation"/>
+</relation>
+<relation entry1="32" entry2="27" type="PPrel" prob="0.5">
+<subtype name="activation"/>
+</relation>
+<relation entry1="23" entry2="21" type="PPrel" prob="0.5">
+<subtype name="activation"/>
+</relation>
+<relation entry1="25" entry2="21" type="PPrel" prob="0.4666666667">
+<subtype name="activation"/>
+</relation>
+<relation entry1="20" entry2="21" type="PPrel" prob="0.4285714286">
+<subtype name="dissociation"/>
+</relation>
+<relation entry1="14" entry2="23" type="PPrel" prob="0.5">
+<subtype name="missing interaction"/>
+</relation>
+<relation entry1="13" entry2="23" type="PPrel" prob="0.25">
+<subtype name="missing interaction"/>
+</relation>
+<relation entry1="34" entry2="33" type="PPrel" prob="0.7894736842">
+<subtype name="activation"/>
+</relation>
+<relation entry1="33" entry2="32" type="PPrel" prob="0.6363636364">
+<subtype name="activation"/>
+</relation>
+<relation entry1="17" entry2="32" type="PPrel" prob="0.95">
+<subtype name="missing interaction"/>
+</relation>
+<relation entry1="22" entry2="35" type="PPrel" prob="0.95">
+<subtype name="indirect effect"/>
+</relation>
+<relation entry1="16" entry2="35" type="PPrel" prob="0.3333333333">
+<subtype name="missing interaction"/>
+</relation>
+<relation entry1="2" entry2="34" type="PPrel" prob="0.95">
+<subtype name="activation"/>
+</relation>
+<relation entry1="35" entry2="34" type="PPrel" prob="0.6086956522">
+<subtype name="activation"/>
+</relation>
+<relation entry1="18" entry2="19" type="PPrel" prob="0.2777777778">
+<subtype name="inhibition"/>
+</relation>
+<relation entry1="29" entry2="12" type="PPrel" prob="0.2222222222">
+<subtype name="activation"/>
+</relation>
+<relation entry1="14" entry2="25" type="PPrel" prob="0.4444444444">
+<subtype name="missing interaction"/>
+</relation>
+<relation entry1="13" entry2="25" type="PPrel" prob="0.25">
+<subtype name="missing interaction"/>
+</relation>
+<relation entry1="13" entry2="18" type="PPrel" prob="0.3571428571">
+<subtype name="missing interaction"/>
+</relation>
+<relation entry1="29" entry2="10" type="PPrel" prob="0.3773833274">
+<subtype name="activation"/>
+</relation>
+<relation entry1="32" entry2="27" type="PPrel" prob="0.8565514573">
+<subtype name="activation"/>
+</relation>
+<relation entry1="23" entry2="21" type="PPrel" prob="0.6795814651">
+<subtype name="activation"/>
+</relation>
+<relation entry1="25" entry2="21" type="PPrel" prob="0.2436340419">
+<subtype name="activation"/>
+</relation>
+<relation entry1="20" entry2="21" type="PPrel" prob="0.5905538259">
+<subtype name="dissociation"/>
+</relation>
+<relation entry1="14" entry2="23" type="PPrel" prob="0.2973149469">
+<subtype name="missing interaction"/>
+</relation>
+<relation entry1="13" entry2="23" type="PPrel" prob="0.6369359145">
+<subtype name="missing interaction"/>
+</relation>
+<relation entry1="34" entry2="33" type="PPrel" prob="0.5601991141">
+<subtype name="activation"/>
+</relation>
+<relation entry1="33" entry2="32" type="PPrel" prob="0.004409794">
+<subtype name="activation"/>
+</relation>
+<relation entry1="17" entry2="32" type="PPrel" prob="0.2019321898">
+<subtype name="missing interaction"/>
+</relation>
+<relation entry1="22" entry2="35" type="PPrel" prob="0.6071604893">
+<subtype name="indirect effect"/>
+</relation>
+<relation entry1="16" entry2="35" type="PPrel" prob="0.2865645907">
+<subtype name="missing interaction"/>
+</relation>
+<relation entry1="2" entry2="34" type="PPrel" prob="0.5620885263">
+<subtype name="activation"/>
+</relation>
+<relation entry1="35" entry2="34" type="PPrel" prob="0.9721679959">
+<subtype name="activation"/>
+</relation>
+<relation entry1="18" entry2="19" type="PPrel" prob="0.8293877206">
+<subtype name="inhibition"/>
+</relation>
+<relation entry1="29" entry2="12" type="PPrel" prob="0.2205122224">
+<subtype name="activation"/>
+</relation>
+<relation entry1="14" entry2="25" type="PPrel" prob="0.0655682733">
+<subtype name="missing interaction"/>
+</relation>
+<relation entry1="13" entry2="25" type="PPrel" prob="0.5689289726">
+<subtype name="missing interaction"/>
+</relation>
+<relation entry1="13" entry2="18" type="PPrel" prob="0.3885833397">
+<subtype name="missing interaction"/>
+</relation>
+<action type="disease" entry1="9" />
+<action type="disease" entry1="7" />
+<action type="disease" entry1="5" />
+<action type="disease" entry1="8" />
+</pathway>
