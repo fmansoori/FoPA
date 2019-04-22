@@ -13,7 +13,7 @@ Before running FoPA do the following:
 
 How To Run "FoPA":
   Below is the general command:   
-                                  ./FoPA  "DEGfile" "allfile" "outputfile address"
+                                  ./build/FoPA/FoPA  "DEGfile" "allfile" "outputfile address"
   
   - the first argument is the name of the differentially expressed genes file (the format of the file 
   is expressed below)
