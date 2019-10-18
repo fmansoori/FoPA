@@ -11,28 +11,26 @@ Before running FoPA do the following:
 - In the config file in FoPA folder change the paths to reflect the locations in your system:
       -Change the "FoPA_path" to the path of the FoPA in your system 
       -Change the "gene_path to the path of the experiment data
+	  
 ---------------------------------
 
 How To Run "FoPA":
   Below is the general command:   
-
                                  > FoPA -[n/c] "DEGfile" "allfile" "outputfile"
                              or
                                  >> python.exe ".\FoPa.py" -[n/c] "DEGfile" "allfile"  "statefile"
-
   
   - the first argument is the name of the differentially expressed genes file (the format of the file 
   is expressed below)
   - the second argument is the name of the all genes files 
      ( the address of these two files should be indicated in the config file as "gene_path")
-  - the third argument is the name and the address of the output file (This file contains the results)
+   - the third argument is the name and the address of the output file (This file contains the results)
   
 options:  
    - -n is used when you want a new run.
    - -c is used when you want to start from the last previous state.
    
   Example:  >FoPA -n "GSE4107_DEG.txt" "GSE4107_all.txt" "./result.txt" 
-
 
 -------------------------------------------------------------------
 Format of the experiment data:
