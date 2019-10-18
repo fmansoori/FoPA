@@ -190,7 +190,7 @@ class prism_trim_parser():
 
         #call(["myprism.bat", path+'/'+filename, path+'/'+profile, '>'+prism_result+'/out' ]);
         call(["myprism.bat", './data/prism output/' + filename, './data/prism output/' + profile, '>'+prism_result+'/out']);
-        f = open('E:/out', 'r');
+        f = open(prism_result+'/out', 'r');
 
         for line in f.readlines():
             if(line.find('Result:')!=-1):

@@ -41,12 +41,18 @@ ignore_file = config.get('files','ignore_file')
 random_build = config.get('Random','Build')
 random_number = config.get('Random','Number')
 
-#read the arguments
-if(len(sys.argv) > 3):
-    deg_file = sys.argv[1];
-    all_file = sys.argv[2];
-    out_file = sys.argv[3];
 
+#read the arguments
+#if(len())
+if(len(sys.argv) > 4):
+    new_continue = sys.argv[1].lstrip();
+    deg_file = sys.argv[2].lstrip();
+    all_file = sys.argv[3].lstrip();
+    out_file = sys.argv[4].lstrip();
+else:
+    print("Command format: FoPA -(n/c) 'DEGs file' 'all genes file' 'result file'.")
+    print("Read the ReadMe file for help.")
+    sys.exit(-1)
 
 #read freq file and build the weights
 freq_raw = [line.rstrip('\n') for line in open(freq_file)]
@@ -67,14 +73,16 @@ for we in ws:
     ws[we] = ((wmax-w)/(wmax-wmin))**(0.5);
 
 
-#read result file to continue from previous
+#read result file to continue from previous if the option is -c
 donePathwaysFiles=[];
-res_file = open(result_file,'r');
-donePathwaysRows = [line.rstrip('\n') for line in res_file];
-res_file.close();
-for donePathwaysRow in donePathwaysRows:
-    splitd = donePathwaysRow.split('\t');
-    donePathwaysFiles.append("hsa"+splitd[0]+".xml");
+if(new_continue == 'c'):
+    res_file = open(result_file,'r');
+    donePathwaysRows = [line.rstrip('\n') for line in res_file];
+    res_file.close();
+    for donePathwaysRow in donePathwaysRows:
+        splitd = donePathwaysRow.split('\t');
+        donePathwaysFiles.append("hsa"+splitd[0]+".xml");
+
 
 #read ig file
 ignorePathwaysFiles = [];

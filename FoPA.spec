@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['FoPA.py'],
-             pathex=['E:\\thesis\\FoPA'],
+             pathex=['E:\\thesis\\FoPA_new'],
              binaries=[],
              datas=[],
              hiddenimports=[],
@@ -18,16 +18,12 @@ pyz = PYZ(a.pure, a.zipped_data,
              cipher=block_cipher)
 exe = EXE(pyz,
           a.scripts,
-          exclude_binaries=True,
+          a.binaries,
+          a.zipfiles,
+          a.datas,
           name='FoPA',
           debug=False,
           strip=False,
           upx=True,
+          runtime_tmpdir=None,
           console=True )
-coll = COLLECT(exe,
-               a.binaries,
-               a.zipfiles,
-               a.datas,
-               strip=False,
-               upx=True,
-               name='FoPA')
