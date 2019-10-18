@@ -1,4 +1,4 @@
-FoPA v0.1
+FoPA v0.2
 -------------------------------
 Before running FoPA do the following:
 
@@ -36,5 +36,5 @@ options:
 Format of the experiment data:
 
 The "DEGfile" is a file containing the Entrez ID of genes found to be differentially expressed between disease and normal samples, 
-the "allfile" is a tab-delemited file with the Entrez ID of all genes profiled on the microarray and the moderated t-score of each gene when comparing the desease and normal samples.
+the "allfile" is a tab-delimited file with the Entrez ID of all genes profiled on the Microarray and the moderated t-score of each gene when comparing the disease and normal samples.
 Some samples of these files could be found in ./data/input_genes folder.
