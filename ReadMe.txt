@@ -11,6 +11,8 @@ Before running FoPA do the following:
 - In the config file in FoPA folder change the paths to reflect the locations in your system:
       -Change the "FoPA_path" to the path of the FoPA in your system 
       -Change the "gene_path to the path of the experiment data
+      - If there is not the drive E: in your system change the value of the prism_result to another derive.
+      (It is better not to set the value  to C drive. If you don't have a drive other than your C drive, give the read/write access of the C drive to the program)
 	  
 ---------------------------------
 
